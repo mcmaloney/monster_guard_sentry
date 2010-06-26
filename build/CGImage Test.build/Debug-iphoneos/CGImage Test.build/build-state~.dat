@@ -1,0 +1,434 @@
+TCGImage Test
+v7
+r0
+t299003690.177742
+cCheck dependencies
+cCpResource "build/Debug-iphoneos/CGImage Test.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/Info.plist" CGImage_Test-Info.plist
+cCompileXIB "/Users/michael/Desktop/CGImage Test/MainWindow.xib"
+cCompileXIB "/Users/michael/Desktop/CGImage Test/CGImage_TestViewController.xib"
+cCopyPNGFile "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/black.png" "../Radar Test Images/black.png"
+cCopyPNGFile "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/color_back.png" "../Radar Test Images/color_back.png"
+cCopyPNGFile "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/color_front.png" "../Radar Test Images/color_front.png"
+cCopyPNGFile "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/pinwheel_1.png" "../Radar Test Images/pinwheel_1.png"
+cCopyPNGFile "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/pinwheel_2.png" "../Radar Test Images/pinwheel_2.png"
+cProcessPCH /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-dtiuqdqkkmwbuycwfcdwfzwmjsfo/CGImage_Test_Prefix.pch.gch CGImage_Test_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/main.o" "/Users/michael/Desktop/CGImage Test/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestAppDelegate.o" "/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestViewController.o" "/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/CGImage Test" normal armv6
+cGenerateDSYMFile "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app.dSYM" "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/CGImage Test"
+cProcessProductPackaging "/Users/michael/Library/MobileDevice/Provisioning Profiles/A9A501FE-F181-4B83-A01D-53DF617ADBFC.mobileprovision" "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/embedded.mobileprovision"
+cTouch "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test.xcent"
+cCodeSign "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk
+c000000004B79A1A50000000000000110
+t1266262437
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist
+c000000004B2B3B9F00000000000000DD
+t1261124511
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+c000000004B2B3B9F00000000000001E5
+t1261124511
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B537900000000005F4900
+t1261130617
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B551F0000000000501370
+t1261131039
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B54F40000000000001355
+t1261130996
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CAAnimation.h
+c000000004B2B570100000000000023C4
+t1261131521
+s9156
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B2B57EF00000000001C27F0
+t1261131759
+s1845232
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61610000000000000788
+t1261134177
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B63DA0000000001B3F450
+t1261134810
+s28570704
+
+N/Users/michael/Desktop/CGImage Test/../Radar Test Images/black.png
+c000000004C222B3C0000000000000A02
+t1277307708
+s2562
+
+N/Users/michael/Desktop/CGImage Test/../Radar Test Images/color_back.png
+c000000004C222B460000000000000865
+t1277307718
+s2149
+
+N/Users/michael/Desktop/CGImage Test/../Radar Test Images/color_front.png
+c000000004C222B1B0000000000000A4C
+t1277307675
+s2636
+
+N/Users/michael/Desktop/CGImage Test/../Radar Test Images/pinwheel_1.png
+c000000004C222B280000000000005683
+t1277307688
+s22147
+
+N/Users/michael/Desktop/CGImage Test/../Radar Test Images/pinwheel_2.png
+c000000004C222B33000000000000582E
+t1277307699
+s22574
+
+N/Users/michael/Desktop/CGImage Test/CGImage_TestViewController.xib
+c000000004C22371A0000000000005C3F
+t1277310746
+s23615
+
+N/Users/michael/Desktop/CGImage Test/CGImage_Test_Prefix.pch
+c000000004C222B6500000000000000C1
+t1277307749
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestAppDelegate.h
+c000000004C222B6500000000000001FF
+t1277307749
+s511
+i<UIKit/UIKit.h>
+
+N/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestAppDelegate.m
+c000000004C222B6500000000000002BE
+t1277307749
+s702
+i"CGImage_TestAppDelegate.h"
+i"CGImage_TestViewController.h"
+
+N/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.h
+c000000004C2236E800000000000001A3
+t1277310696
+s419
+i<UIKit/UIKit.h>
+i"QuartzCore/CAAnimation.h"
+
+N/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m
+c000000004C2236FE0000000000000871
+t1277310718
+s2161
+i"CGImage_TestViewController.h"
+
+N/Users/michael/Desktop/CGImage Test/MainWindow.xib
+c000000004C222B650000000000002683
+t1277307749
+s9859
+
+N/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test.xcent
+t1277310889
+s325
+
+N/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage Test.LinkFileList
+c000000004C2237A7000000000000019A
+t1277310887
+s410
+
+N/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestAppDelegate.o
+t1277310889
+s39796
+
+N/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestViewController.o
+t1277310889
+s35016
+
+N/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/main.o
+t1277310889
+s6440
+
+N/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app
+t1277310890
+s544
+
+N/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app.dSYM
+t1277310889
+s102
+
+N/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/CGImage Test
+t1277310889
+s17448
+
+N/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/CGImage_TestViewController.nib
+t1277310888
+s3018
+
+N/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/Info.plist
+t1277310887
+s707
+
+N/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/MainWindow.nib
+t1277310887
+s1520
+
+N/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/PkgInfo
+t1277310887
+s8
+
+N/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/ResourceRules.plist
+t1277310887
+s485
+
+N/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/black.png
+t1277310888
+s2570
+
+N/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/color_back.png
+t1277310888
+s2569
+
+N/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/color_front.png
+t1277310888
+s2570
+
+N/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/embedded.mobileprovision
+t1277310889
+s7169
+
+N/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/pinwheel_1.png
+t1277310888
+s33570
+
+N/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/pinwheel_2.png
+t1277310888
+s32895
+
+N/Users/michael/Desktop/CGImage Test/main.m
+c000000004C222B650000000000000170
+t1277307749
+s368
+i<UIKit/UIKit.h>
+
+N/Users/michael/Library/MobileDevice/Provisioning Profiles/A9A501FE-F181-4B83-A01D-53DF617ADBFC.mobileprovision
+c000000004C17E71E0000000000001C01
+t1276634910
+s7169
+
+N/var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-dtiuqdqkkmwbuycwfcdwfzwmjsfo/CGImage_Test_Prefix.pch.gch
+t1277310889
+s8388792
+
+NCGImage_Test-Info.plist
+c000000004C222B65000000000000038D
+t1277307749
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies299003687#299003687#0(0"0(0#1#0"4300911832#0"0#
+
+CCodeSign "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app"
+s299003689.957925
+e299003690.177702
+r1
+xCodeSign
+x/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app
+lSLF07#2@48"CodeSign "build/Debug-iphoneos/CGImage Test.app"299003689#299003690#0(0"0(0#0#73"/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app4300911832#691"    cd "/Users/michael/Desktop/CGImage Test"    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Michael Maloney (E853M875MN)" "--resource-rules=/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/ResourceRules.plist" --entitlements "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test.xcent" "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app"0#
+
+CCompileC "build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestAppDelegate.o" "/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s299003689.481791
+e299003689.571044
+r1
+xCompileC
+xbuild/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestAppDelegate.o
+x/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/michael/Desktop/CGImage Test/Classes/CGImage_TestAppDelegate.m299003689#299003689#0(0"0(0#0#69"/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestAppDelegate.m4300911832#1863"    cd "/Users/michael/Desktop/CGImage Test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-generated-files.hmap" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-own-target-headers.hmap" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-all-target-headers.hmap" -iquote "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-project-headers.hmap" "-F/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos" "-I/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/include" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/DerivedSources/armv6" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/DerivedSources" -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-dtiuqdqkkmwbuycwfcdwfzwmjsfo/CGImage_Test_Prefix.pch -c "/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestAppDelegate.m" -o "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestAppDelegate.o"0#
+
+CCompileC "build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestViewController.o" "/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s299003689.563688
+e299003689.623484
+r1
+xCompileC
+xbuild/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestViewController.o
+x/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m: In function '-[CGImage_TestViewController toggleAnimation:]':
+o/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:17: warning: 'CGImage_TestViewController' may not respond to '-stopRotating'
+o/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:17: warning: (Messages without a matching method signature
+o/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:17: warning: will be assumed to return 'id' and accept
+o/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:17: warning: '...' as arguments.)
+o/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:19: warning: 'CGImage_TestViewController' may not respond to '-startRotating'
+lSLF07#2@80"Compile /Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m299003689#299003689#0(804"/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m: In function '-[CGImage_TestViewController toggleAnimation:]':/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:17: warning: 'CGImage_TestViewController' may not respond to '-stopRotating'/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:17: warning: (Messages without a matching method signature/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:17: warning: will be assumed to return 'id' and accept/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:17: warning: '...' as arguments.)/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:19: warning: 'CGImage_TestViewController' may not respond to '-startRotating'3(22@63"'CGImage_TestViewController' may not respond to '-stopRotating'299003689#136#150#0(6@72"/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m299003518#17#0#17#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)299003689#286#132#0(6@72"/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m299003518#17#0#17#0#0"0(22@64"'CGImage_TestViewController' may not respond to '-startRotating'299003689#653#151#0(6@72"/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m299003518#19#0#19#0#26"'*' may not respond to '*'0(0#0#72"/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m4300911832#1869"    cd "/Users/michael/Desktop/CGImage Test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-generated-files.hmap" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-own-target-headers.hmap" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-all-target-headers.hmap" -iquote "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-project-headers.hmap" "-F/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos" "-I/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/include" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/DerivedSources/armv6" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/DerivedSources" -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-dtiuqdqkkmwbuycwfcdwfzwmjsfo/CGImage_Test_Prefix.pch -c "/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m" -o "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestViewController.o"0#
+
+CCompileC "build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/main.o" "/Users/michael/Desktop/CGImage Test/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s299003689.480883
+e299003689.563592
+r1
+xCompileC
+xbuild/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/main.o
+x/Users/michael/Desktop/CGImage Test/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/michael/Desktop/CGImage Test/main.m299003689#299003689#0(0"0(0#0#42"/Users/michael/Desktop/CGImage Test/main.m4300911832#1817"    cd "/Users/michael/Desktop/CGImage Test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-generated-files.hmap" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-own-target-headers.hmap" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-all-target-headers.hmap" -iquote "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-project-headers.hmap" "-F/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos" "-I/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/include" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/DerivedSources/armv6" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/DerivedSources" -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-dtiuqdqkkmwbuycwfcdwfzwmjsfo/CGImage_Test_Prefix.pch -c "/Users/michael/Desktop/CGImage Test/main.m" -o "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/main.o"0#
+
+CCompileXIB "/Users/michael/Desktop/CGImage Test/CGImage_TestViewController.xib"
+s299003687.567543
+e299003688.404884
+r1
+xCompileXIB
+x/Users/michael/Desktop/CGImage Test/CGImage_TestViewController.xib
+lSLF07#2@41"CompileXIB CGImage_TestViewController.xib299003687#299003688#0(0"0(0#0#66"/Users/michael/Desktop/CGImage Test/CGImage_TestViewController.xib4300911832#502"    cd "/Users/michael/Desktop/CGImage Test"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/CGImage_TestViewController.nib" "/Users/michael/Desktop/CGImage Test/CGImage_TestViewController.xib"0#
+
+CCompileXIB "/Users/michael/Desktop/CGImage Test/MainWindow.xib"
+s299003687.566882
+e299003688.028543
+r1
+xCompileXIB
+x/Users/michael/Desktop/CGImage Test/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib299003687#299003688#0(0"0(0#0#50"/Users/michael/Desktop/CGImage Test/MainWindow.xib4300911832#470"    cd "/Users/michael/Desktop/CGImage Test"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/MainWindow.nib" "/Users/michael/Desktop/CGImage Test/MainWindow.xib"0#
+
+CCopyPNGFile "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/black.png" "../Radar Test Images/black.png"
+s299003688.028657
+e299003688.629302
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/black.png
+x../Radar Test Images/black.png
+lSLF07#2@94"CopyPNGFile "build/Debug-iphoneos/CGImage Test.app/black.png" "../Radar Test Images/black.png"299003688#299003688#0(0"0(0#0#66"/Users/michael/Desktop/CGImage Test/../Radar Test Images/black.png4300911832#581"    cd "/Users/michael/Desktop/CGImage Test"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/michael/Desktop/CGImage Test/../Radar Test Images/black.png" "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/black.png"0#
+
+CCopyPNGFile "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/color_back.png" "../Radar Test Images/color_back.png"
+s299003688.404966
+e299003688.626679
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/color_back.png
+x../Radar Test Images/color_back.png
+lSLF07#2@104"CopyPNGFile "build/Debug-iphoneos/CGImage Test.app/color_back.png" "../Radar Test Images/color_back.png"299003688#299003688#0(0"0(0#0#71"/Users/michael/Desktop/CGImage Test/../Radar Test Images/color_back.png4300911832#591"    cd "/Users/michael/Desktop/CGImage Test"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/michael/Desktop/CGImage Test/../Radar Test Images/color_back.png" "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/color_back.png"0#
+
+CCopyPNGFile "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/color_front.png" "../Radar Test Images/color_front.png"
+s299003688.626765
+e299003688.714221
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/color_front.png
+x../Radar Test Images/color_front.png
+lSLF07#2@106"CopyPNGFile "build/Debug-iphoneos/CGImage Test.app/color_front.png" "../Radar Test Images/color_front.png"299003688#299003688#0(0"0(0#0#72"/Users/michael/Desktop/CGImage Test/../Radar Test Images/color_front.png4300911832#593"    cd "/Users/michael/Desktop/CGImage Test"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/michael/Desktop/CGImage Test/../Radar Test Images/color_front.png" "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/color_front.png"0#
+
+CCopyPNGFile "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/pinwheel_1.png" "../Radar Test Images/pinwheel_1.png"
+s299003688.629373
+e299003688.955555
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/pinwheel_1.png
+x../Radar Test Images/pinwheel_1.png
+lSLF07#2@104"CopyPNGFile "build/Debug-iphoneos/CGImage Test.app/pinwheel_1.png" "../Radar Test Images/pinwheel_1.png"299003688#299003688#0(0"0(0#0#71"/Users/michael/Desktop/CGImage Test/../Radar Test Images/pinwheel_1.png4300911832#591"    cd "/Users/michael/Desktop/CGImage Test"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/michael/Desktop/CGImage Test/../Radar Test Images/pinwheel_1.png" "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/pinwheel_1.png"0#
+
+CCopyPNGFile "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/pinwheel_2.png" "../Radar Test Images/pinwheel_2.png"
+s299003688.714302
+e299003688.955749
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/pinwheel_2.png
+x../Radar Test Images/pinwheel_2.png
+lSLF07#2@104"CopyPNGFile "build/Debug-iphoneos/CGImage Test.app/pinwheel_2.png" "../Radar Test Images/pinwheel_2.png"299003688#299003688#0(0"0(0#0#71"/Users/michael/Desktop/CGImage Test/../Radar Test Images/pinwheel_2.png4300911832#591"    cd "/Users/michael/Desktop/CGImage Test"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/michael/Desktop/CGImage Test/../Radar Test Images/pinwheel_2.png" "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/pinwheel_2.png"0#
+
+CCpResource "build/Debug-iphoneos/CGImage Test.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+s299003687.541359
+e299003687.564880
+r1
+xCpResource
+xbuild/Debug-iphoneos/CGImage Test.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+lSLF07#2@96"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist299003687#299003687#0(0"0(0#0#91"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist4913266056747185152#485"    cd "/Users/michael/Desktop/CGImage Test"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app"0#
+
+CGenerateDSYMFile "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app.dSYM" "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/CGImage Test"
+s299003689.930374
+e299003689.943180
+r1
+xGenerateDSYMFile
+x/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app.dSYM
+x/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/CGImage Test
+lSLF07#2@114"GenerateDSYMFile "build/Debug-iphoneos/CGImage Test.app.dSYM" "build/Debug-iphoneos/CGImage Test.app/CGImage Test"299003689#299003689#0(0"0(0#0#86"/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/CGImage Test4300911832#374"    cd "/Users/michael/Desktop/CGImage Test"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/CGImage Test" -o "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app.dSYM"0#
+
+CLd "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/CGImage Test" normal armv6
+s299003689.623566
+e299003689.930288
+r1
+xLd
+x/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/CGImage Test
+xnormal
+xarmv6
+lSLF07#2@91"Link /Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/CGImage Test299003689#299003689#0(0"0(0#0#0"4300911832#870"    cd "/Users/michael/Desktop/CGImage Test"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk "-L/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos" "-F/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos" -filelist "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage Test.LinkFileList" -dead_strip -miphoneos-version-min=3.1.3 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/CGImage Test"0#
+
+CProcessInfoPlistFile "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/Info.plist" CGImage_Test-Info.plist
+s299003687.542409
+e299003687.566810
+r1
+xProcessInfoPlistFile
+x/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/Info.plist
+xCGImage_Test-Info.plist
+lSLF07#2@31"Process CGImage_Test-Info.plist299003687#299003687#0(0"0(0#0#59"/Users/michael/Desktop/CGImage Test/CGImage_Test-Info.plist4300911832#578"    cd "/Users/michael/Desktop/CGImage Test"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CGImage_Test-Info.plist -genpkginfo "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/ResourceRules.plist" -o "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/Info.plist"0#
+
+CProcessPCH /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-dtiuqdqkkmwbuycwfcdwfzwmjsfo/CGImage_Test_Prefix.pch.gch CGImage_Test_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s299003688.955977
+e299003689.480739
+r1
+xProcessPCH
+x/var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-dtiuqdqkkmwbuycwfcdwfzwmjsfo/CGImage_Test_Prefix.pch.gch
+xCGImage_Test_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile CGImage_Test_Prefix.pch299003688#299003689#0(0"0(0#0#59"/Users/michael/Desktop/CGImage Test/CGImage_Test_Prefix.pch4300911832#1711"    cd "/Users/michael/Desktop/CGImage Test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-generated-files.hmap" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-own-target-headers.hmap" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-all-target-headers.hmap" -iquote "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-project-headers.hmap" "-F/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos" "-I/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/include" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/DerivedSources/armv6" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/DerivedSources" -c "/Users/michael/Desktop/CGImage Test/CGImage_Test_Prefix.pch" -o /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-dtiuqdqkkmwbuycwfcdwfzwmjsfo/CGImage_Test_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/michael/Library/MobileDevice/Provisioning Profiles/A9A501FE-F181-4B83-A01D-53DF617ADBFC.mobileprovision" "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/embedded.mobileprovision"
+s299003689.943264
+e299003689.944405
+r1
+xProcessProductPackaging
+x/Users/michael/Library/MobileDevice/Provisioning Profiles/A9A501FE-F181-4B83-A01D-53DF617ADBFC.mobileprovision
+x/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/embedded.mobileprovision
+lSLF07#2@201"ProcessProductPackaging "/Users/michael/Library/MobileDevice/Provisioning Profiles/A9A501FE-F181-4B83-A01D-53DF617ADBFC.mobileprovision" "build/Debug-iphoneos/CGImage Test.app/embedded.mobileprovision"299003689#299003689#0(0"0(0#0#98"/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/embedded.mobileprovision4300911832#428"    cd "/Users/michael/Desktop/CGImage Test"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/michael/Library/MobileDevice/Provisioning Profiles/A9A501FE-F181-4B83-A01D-53DF617ADBFC.mobileprovision" -o "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test.xcent"
+s299003689.947169
+e299003689.957620
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist
+x/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test.xcent
+lSLF07#2@194"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist "build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test.xcent"299003689#299003689#0(0"0(0#0#113"/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test.xcent4300911832#447"    cd "/Users/michael/Desktop/CGImage Test"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist -entitlements -format xml -o "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test.xcent"0#
+
+CTouch "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app"
+s299003689.944454
+e299003689.947098
+r1
+xTouch
+x/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app
+lSLF07#2@79"Touch /Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app299003689#299003689#0(0"0(0#0#0"4300911832#267"    cd "/Users/michael/Desktop/CGImage Test"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app"0#
+

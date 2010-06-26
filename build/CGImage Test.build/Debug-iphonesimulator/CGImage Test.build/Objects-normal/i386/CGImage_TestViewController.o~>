@@ -1,0 +1,24 @@
+/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m: In function '-[CGImage_TestViewController toggleAnimation:]':
+/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:22: warning: 'CGImage_TestViewController' may not respond to '-pauseLayer:'
+/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:22: warning: (Messages without a matching method signature
+/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:22: warning: will be assumed to return 'id' and accept
+/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:22: warning: '...' as arguments.)
+/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:23: warning: 'CGImage_TestViewController' may not respond to '-pauseLayer:'
+/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:24: warning: 'CGImage_TestViewController' may not respond to '-pauseLayer:'
+/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:25: warning: 'CGImage_TestViewController' may not respond to '-pauseLayer:'
+/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:26: warning: 'CGImage_TestViewController' may not respond to '-pauseLayer:'
+/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:28: warning: 'CGImage_TestViewController' may not respond to '-stopBars'
+/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:34: warning: 'CGImage_TestViewController' may not respond to '-resumeLayer:'
+/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:35: warning: 'CGImage_TestViewController' may not respond to '-resumeLayer:'
+/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:36: warning: 'CGImage_TestViewController' may not respond to '-resumeLayer:'
+/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:37: warning: 'CGImage_TestViewController' may not respond to '-resumeLayer:'
+/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:38: warning: 'CGImage_TestViewController' may not respond to '-resumeLayer:'
+/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:40: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'
+/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:41: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'
+/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:42: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'
+/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:43: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'
+/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:44: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'
+/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:46: warning: 'CGImage_TestViewController' may not respond to '-startBars'
+/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m: In function '-[CGImage_TestViewController levelTimerCallback:]':
+/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:130: warning: 'CGImage_TestViewController' may not respond to '-showAlertView'
+/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:132: warning: 'CGImage_TestViewController' may not respond to '-hideAlertView'
