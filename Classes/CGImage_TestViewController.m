@@ -71,8 +71,7 @@
 
 
 // Start a layer animating again from where it stopped.
--(void)resumeLayer:(CALayer*)layer
-{
+-(void)resumeLayer:(CALayer*)layer {
     CFTimeInterval pausedTime = [layer timeOffset];
     layer.speed = 1.0;
     layer.timeOffset = 0.0;

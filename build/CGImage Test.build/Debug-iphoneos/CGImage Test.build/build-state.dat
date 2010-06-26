@@ -1,7 +1,7 @@
 TCGImage Test
 v7
 r0
-t299207070.541713
+t299209525.331292
 cCheck dependencies
 cCpResource "build/Debug-iphoneos/CGImage Test.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
 cProcessInfoPlistFile "/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/Info.plist" CGImage_Test-Info.plist
@@ -522,8 +522,8 @@ t1277318583
 s4145
 
 N/Users/michael/Desktop/SentryAPP/CGImage_TestViewController.xib
-c000000004C242C3A0000000000007AD4
-t1277439034
+c000000004C2553080000000000007AD4
+t1277514504
 s31444
 
 N/Users/michael/Desktop/SentryAPP/CGImage_Test_Prefix.pch
@@ -547,18 +547,18 @@ i"CGImage_TestAppDelegate.h"
 i"CGImage_TestViewController.h"
 
 N/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.h
-c000000004C241E2500000000000003F4
-t1277435429
-s1012
+c000000004C2558DA000000000000050F
+t1277515994
+s1295
 i<UIKit/UIKit.h>
 i<QuartzCore/CAAnimation.h>
 i<AVFoundation/AVFoundation.h>
 i<CoreAudio/CoreAudioTypes.h>
 
 N/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m
-c000000004C25521900000000000012B8
-t1277514265
-s4792
+c000000004C255BB20000000000001894
+t1277516722
+s6292
 i"CGImage_TestViewController.h"
 
 N/Users/michael/Desktop/SentryAPP/MainWindow.xib
@@ -576,23 +576,23 @@ t1277409683
 s401
 
 N/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestAppDelegate.o
-t1277437892
-s40504
+t1277516389
+s40528
 
 N/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestViewController.o
-t1277514268
-s54580
+t1277516725
+s58396
 
 N/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/main.o
 t1277409685
 s6436
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app
-t1277514269
+t1277516725
 s1938
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app.dSYM
-t1277514268
+t1277516725
 s102
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/00.png
@@ -720,11 +720,11 @@ t1277437891
 s4542
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/CGImage Test
-t1277514268
-s31584
+t1277516725
+s30468
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/CGImage_TestViewController.nib
-t1277514268
+t1277516389
 s4084
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/Default.png
@@ -813,7 +813,7 @@ s948
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies299207070#299207070#0(0"0(0#1#0"4300911832#0"0#
+lSLF07#2@18"Check dependencies299209525#299209525#0(0"0(0#1#0"4300911832#0"0#
 
 CCodeSign "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app"
 s299016334.027223
@@ -825,12 +825,12 @@ o/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app: repl
 lSLF07#2@48"CodeSign "build/Debug-iphoneos/CGImage Test.app"299016334#299016334#0(104"/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app: replacing existing signature0(0#0#73"/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app4300911832#691"    cd "/Users/michael/Desktop/CGImage Test"    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Michael Maloney (E853M875MN)" "--resource-rules=/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/ResourceRules.plist" --entitlements "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test.xcent" "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app"0#
 
 CCodeSign "/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app"
-s299207068.917493
-e299207069.211113
+s299209525.208263
+e299209525.331256
 r1
 xCodeSign
 x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app
-lSLF07#2@48"CodeSign "build/Debug-iphoneos/CGImage Test.app"299207068#299207069#0(0"0(0#0#70"/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app4300911832#677"    cd /Users/michael/Desktop/SentryAPP    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Michael Maloney (E853M875MN)" "--resource-rules=/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/ResourceRules.plist" --entitlements "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test.xcent" "/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app"0#
+lSLF07#2@48"CodeSign "build/Debug-iphoneos/CGImage Test.app"299209525#299209525#0(0"0(0#0#70"/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app4300911832#677"    cd /Users/michael/Desktop/SentryAPP    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Michael Maloney (E853M875MN)" "--resource-rules=/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/ResourceRules.plist" --entitlements "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test.xcent" "/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app"0#
 
 CCompileC "build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestAppDelegate.o" "/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
 s299014198.871271
@@ -846,8 +846,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@77"Compile /Users/michael/Desktop/CGImage Test/Classes/CGImage_TestAppDelegate.m299014198#299014198#0(0"0(0#0#69"/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestAppDelegate.m4300911832#1863"    cd "/Users/michael/Desktop/CGImage Test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-generated-files.hmap" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-own-target-headers.hmap" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-all-target-headers.hmap" -iquote "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-project-headers.hmap" "-F/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos" "-I/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/include" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/DerivedSources/armv6" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/DerivedSources" -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-dtiuqdqkkmwbuycwfcdwfzwmjsfo/CGImage_Test_Prefix.pch -c "/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestAppDelegate.m" -o "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestAppDelegate.o"0#
 
 CCompileC "build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestAppDelegate.o" /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s299130692.132503
-e299130692.663572
+s299209189.282514
+e299209189.479980
 r1
 xCompileC
 xbuild/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestAppDelegate.o
@@ -856,7 +856,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@74"Compile /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m299130692#299130692#0(0"0(0#0#66"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m4300911832#1822"    cd /Users/michael/Desktop/SentryAPP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-generated-files.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-own-target-headers.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-all-target-headers.hmap" -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-project-headers.hmap" -F/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos -I/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/include "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/DerivedSources/armv6" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/DerivedSources" -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-emqixjvmyrrzpncfajtlxacybxiv/CGImage_Test_Prefix.pch -c /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m -o "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestAppDelegate.o"0#
+lSLF07#2@74"Compile /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m299209189#299209189#0(0"0(0#0#66"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m4300911832#1822"    cd /Users/michael/Desktop/SentryAPP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-generated-files.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-own-target-headers.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-all-target-headers.hmap" -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-project-headers.hmap" -F/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos -I/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/include "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/DerivedSources/armv6" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/DerivedSources" -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-emqixjvmyrrzpncfajtlxacybxiv/CGImage_Test_Prefix.pch -c /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m -o "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestAppDelegate.o"0#
 
 CCompileC "build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestViewController.o" "/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
 s299015872.349348
@@ -882,8 +882,8 @@ o/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:57: wa
 lSLF07#2@80"Compile /Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m299015872#299015872#0(1419"/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m: In function '-[CGImage_TestViewController toggleAnimation:]':/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:22: warning: 'CGImage_TestViewController' may not respond to '-stopRotation:'/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:22: warning: (Messages without a matching method signature/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:22: warning: will be assumed to return 'id' and accept/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:22: warning: '...' as arguments.)/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:23: warning: 'CGImage_TestViewController' may not respond to '-stopRotation:'/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:27: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:'/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:28: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:'/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m: In function '-[CGImage_TestViewController levelTimerCallback:]':/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:57: warning: 'CGImage_TestViewController' may not respond to '-showAlertView'6(22@64"'CGImage_TestViewController' may not respond to '-stopRotation:'299015872#136#151#0(6@72"/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m299015588#22#0#22#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)299015872#287#132#0(6@72"/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m299015588#22#0#22#0#0"0(22@64"'CGImage_TestViewController' may not respond to '-stopRotation:'299015872#654#151#0(6@72"/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m299015588#23#0#23#0#26"'*' may not respond to '*'0(22@75"'CGImage_TestViewController' may not respond to '-startRotation:direction:'299015872#805#162#0(6@72"/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m299015588#27#0#27#0#26"'*' may not respond to '*'0(22@75"'CGImage_TestViewController' may not respond to '-startRotation:direction:'299015872#967#162#0(6@72"/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m299015588#28#0#28#0#26"'*' may not respond to '*'0(22@64"'CGImage_TestViewController' may not respond to '-showAlertView'299015872#1268#151#0(6@72"/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m299015588#57#0#57#0#26"'*' may not respond to '*'0(0#0#72"/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m4300911832#1869"    cd "/Users/michael/Desktop/CGImage Test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-generated-files.hmap" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-own-target-headers.hmap" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-all-target-headers.hmap" -iquote "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-project-headers.hmap" "-F/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos" "-I/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/include" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/DerivedSources/armv6" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/DerivedSources" -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-dtiuqdqkkmwbuycwfcdwfzwmjsfo/CGImage_Test_Prefix.pch -c "/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m" -o "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestViewController.o"0#
 
 CCompileC "build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestViewController.o" /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s299207068.306026
-e299207068.478319
+s299209525.023732
+e299209525.170612
 r1
 xCompileC
 xbuild/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestViewController.o
@@ -892,25 +892,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m: In function '-[CGImage_TestViewController toggleAnimation:]':
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:22: warning: 'CGImage_TestViewController' may not respond to '-stopRotation:'
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:22: warning: (Messages without a matching method signature
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:22: warning: will be assumed to return 'id' and accept
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:22: warning: '...' as arguments.)
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:23: warning: 'CGImage_TestViewController' may not respond to '-stopRotation:'
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:24: warning: 'CGImage_TestViewController' may not respond to '-stopRotation:'
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:25: warning: 'CGImage_TestViewController' may not respond to '-stopRotation:'
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:26: warning: 'CGImage_TestViewController' may not respond to '-stopRotation:'
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:27: warning: 'CGImage_TestViewController' may not respond to '-stopBars'
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:32: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:33: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:34: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:35: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:36: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:37: warning: 'CGImage_TestViewController' may not respond to '-startBars'
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m: In function '-[CGImage_TestViewController levelTimerCallback:]':
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:90: warning: 'CGImage_TestViewController' may not respond to '-showAlertView'
-lSLF07#2@77"Compile /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207068#299207068#0(2642"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m: In function '-[CGImage_TestViewController toggleAnimation:]':/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:22: warning: 'CGImage_TestViewController' may not respond to '-stopRotation:'/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:22: warning: (Messages without a matching method signature/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:22: warning: will be assumed to return 'id' and accept/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:22: warning: '...' as arguments.)/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:23: warning: 'CGImage_TestViewController' may not respond to '-stopRotation:'/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:24: warning: 'CGImage_TestViewController' may not respond to '-stopRotation:'/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:25: warning: 'CGImage_TestViewController' may not respond to '-stopRotation:'/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:26: warning: 'CGImage_TestViewController' may not respond to '-stopRotation:'/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:27: warning: 'CGImage_TestViewController' may not respond to '-stopBars'/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:32: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:33: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:34: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:35: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:36: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:37: warning: 'CGImage_TestViewController' may not respond to '-startBars'/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m: In function '-[CGImage_TestViewController levelTimerCallback:]':/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:90: warning: 'CGImage_TestViewController' may not respond to '-showAlertView'14(22@64"'CGImage_TestViewController' may not respond to '-stopRotation:'299207068#133#148#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207065#22#0#22#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)299207068#281#129#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207065#22#0#22#0#0"0(22@64"'CGImage_TestViewController' may not respond to '-stopRotation:'299207068#639#148#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207065#23#0#23#0#26"'*' may not respond to '*'0(22@64"'CGImage_TestViewController' may not respond to '-stopRotation:'299207068#787#148#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207065#24#0#24#0#26"'*' may not respond to '*'0(22@64"'CGImage_TestViewController' may not respond to '-stopRotation:'299207068#935#148#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207065#25#0#25#0#26"'*' may not respond to '*'0(22@64"'CGImage_TestViewController' may not respond to '-stopRotation:'299207068#1083#148#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207065#26#0#26#0#26"'*' may not respond to '*'0(22@59"'CGImage_TestViewController' may not respond to '-stopBars'299207068#1231#143#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207065#27#0#27#0#26"'*' may not respond to '*'0(22@84"'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'299207068#1374#168#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207065#32#0#32#0#26"'*' may not respond to '*'0(22@84"'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'299207068#1542#168#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207065#33#0#33#0#26"'*' may not respond to '*'0(22@84"'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'299207068#1710#168#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207065#34#0#34#0#26"'*' may not respond to '*'0(22@84"'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'299207068#1878#168#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207065#35#0#35#0#26"'*' may not respond to '*'0(22@84"'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'299207068#2046#168#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207065#36#0#36#0#26"'*' may not respond to '*'0(22@60"'CGImage_TestViewController' may not respond to '-startBars'299207068#2214#144#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207065#37#0#37#0#26"'*' may not respond to '*'0(22@64"'CGImage_TestViewController' may not respond to '-showAlertView'299207068#2494#148#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207065#90#0#90#0#26"'*' may not respond to '*'0(0#0#69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m4300911832#1828"    cd /Users/michael/Desktop/SentryAPP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-generated-files.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-own-target-headers.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-all-target-headers.hmap" -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-project-headers.hmap" -F/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos -I/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/include "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/DerivedSources/armv6" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/DerivedSources" -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-emqixjvmyrrzpncfajtlxacybxiv/CGImage_Test_Prefix.pch -c /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m -o "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestViewController.o"0#
+lSLF07#2@77"Compile /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299209525#299209525#0(0"0(0#0#69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m4300911832#1828"    cd /Users/michael/Desktop/SentryAPP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-generated-files.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-own-target-headers.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-all-target-headers.hmap" -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test-project-headers.hmap" -F/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos -I/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/include "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/DerivedSources/armv6" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/DerivedSources" -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-emqixjvmyrrzpncfajtlxacybxiv/CGImage_Test_Prefix.pch -c /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m -o "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestViewController.o"0#
 
 CCompileC "build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/LogicTests.o" "/Users/michael/Desktop/CGImage Test/LogicTests.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
 r0
@@ -958,12 +940,12 @@ x/Users/michael/Desktop/CGImage Test/MainWindow.xib
 lSLF07#2@25"CompileXIB MainWindow.xib299003687#299003688#0(0"0(0#0#50"/Users/michael/Desktop/CGImage Test/MainWindow.xib4300911832#470"    cd "/Users/michael/Desktop/CGImage Test"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/MainWindow.nib" "/Users/michael/Desktop/CGImage Test/MainWindow.xib"0#
 
 CCompileXIB /Users/michael/Desktop/SentryAPP/CGImage_TestViewController.xib
-s299207067.818208
-e299207068.305394
+s299209188.612729
+e299209189.282233
 r1
 xCompileXIB
 x/Users/michael/Desktop/SentryAPP/CGImage_TestViewController.xib
-lSLF07#2@41"CompileXIB CGImage_TestViewController.xib299207067#299207068#0(0"0(0#0#63"/Users/michael/Desktop/SentryAPP/CGImage_TestViewController.xib30962681235308592#489"    cd /Users/michael/Desktop/SentryAPP    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/CGImage_TestViewController.nib" /Users/michael/Desktop/SentryAPP/CGImage_TestViewController.xib0#
+lSLF07#2@41"CompileXIB CGImage_TestViewController.xib299209188#299209189#0(0"0(0#0#63"/Users/michael/Desktop/SentryAPP/CGImage_TestViewController.xib4300911832#489"    cd /Users/michael/Desktop/SentryAPP    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/CGImage_TestViewController.nib" /Users/michael/Desktop/SentryAPP/CGImage_TestViewController.xib0#
 
 CCompileXIB /Users/michael/Desktop/SentryAPP/MainWindow.xib
 r0
@@ -1416,13 +1398,13 @@ x/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/CGIma
 lSLF07#2@114"GenerateDSYMFile "build/Debug-iphoneos/CGImage Test.app.dSYM" "build/Debug-iphoneos/CGImage Test.app/CGImage Test"299015872#299015872#0(0"0(0#0#86"/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/CGImage Test4300911832#374"    cd "/Users/michael/Desktop/CGImage Test"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/CGImage Test" -o "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app.dSYM"0#
 
 CGenerateDSYMFile "/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app.dSYM" "/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/CGImage Test"
-s299207068.807449
-e299207068.889398
+s299209525.193580
+e299209525.205799
 r1
 xGenerateDSYMFile
 x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app.dSYM
 x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/CGImage Test
-lSLF07#2@114"GenerateDSYMFile "build/Debug-iphoneos/CGImage Test.app.dSYM" "build/Debug-iphoneos/CGImage Test.app/CGImage Test"299207068#299207068#0(0"0(0#0#83"/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/CGImage Test4300911832#363"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/CGImage Test" -o "/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app.dSYM"0#
+lSLF07#2@114"GenerateDSYMFile "build/Debug-iphoneos/CGImage Test.app.dSYM" "build/Debug-iphoneos/CGImage Test.app/CGImage Test"299209525#299209525#0(0"0(0#0#83"/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/CGImage Test4300911832#363"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/CGImage Test" -o "/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app.dSYM"0#
 
 CLd "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/CGImage Test" normal armv6
 s299015872.518717
@@ -1435,14 +1417,14 @@ xarmv6
 lSLF07#2@91"Link /Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/CGImage Test299015872#299015872#0(0"0(0#0#0"4300911832#894"    cd "/Users/michael/Desktop/CGImage Test"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk "-L/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos" "-F/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos" -filelist "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage Test.LinkFileList" -dead_strip -miphoneos-version-min=3.1.3 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework AVFoundation -o "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/CGImage Test"0#
 
 CLd "/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/CGImage Test" normal armv6
-s299207068.478435
-e299207068.807327
+s299209525.170698
+e299209525.193489
 r1
 xLd
 x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/CGImage Test
 xnormal
 xarmv6
-lSLF07#2@88"Link /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/CGImage Test299207068#299207068#0(0"0(0#0#0"8458434393682504704#873"    cd /Users/michael/Desktop/SentryAPP    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -L/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos -F/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos -filelist "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage Test.LinkFileList" -dead_strip -miphoneos-version-min=3.1.3 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework AVFoundation -o "/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/CGImage Test"0#
+lSLF07#2@88"Link /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/CGImage Test299209525#299209525#0(0"0(0#0#0"4300911832#873"    cd /Users/michael/Desktop/SentryAPP    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -L/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos -F/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos -filelist "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage Test.LinkFileList" -dead_strip -miphoneos-version-min=3.1.3 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework AVFoundation -o "/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/CGImage Test"0#
 
 CProcessInfoPlistFile "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/Info.plist" CGImage_Test-Info.plist
 s299003687.542409
@@ -1527,10 +1509,10 @@ x/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app
 lSLF07#2@79"Touch /Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app299015872#299015872#0(0"0(0#0#0"4300911832#267"    cd "/Users/michael/Desktop/CGImage Test"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app"0#
 
 CTouch "/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app"
-s299207068.889548
-e299207068.917277
+s299209525.205925
+e299209525.208125
 r1
 xTouch
 x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app
-lSLF07#2@76"Touch /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app299207068#299207068#0(0"0(0#0#0"4300911832#259"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app"0#
+lSLF07#2@76"Touch /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app299209525#299209525#0(0"0(0#0#0"4300911832#259"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app"0#
 
