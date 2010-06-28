@@ -197,7 +197,48 @@
 	<key>Notifications</key>
 	<array/>
 	<key>OpenEditors</key>
-	<array/>
+	<array>
+		<dict>
+			<key>Content</key>
+			<dict>
+				<key>PBXProjectModuleGUID</key>
+				<string>4C778CEE11D9461600D91B36</string>
+				<key>PBXProjectModuleLabel</key>
+				<string>CGImage_TestViewController.m</string>
+				<key>PBXSplitModuleInNavigatorKey</key>
+				<dict>
+					<key>Split0</key>
+					<dict>
+						<key>PBXProjectModuleGUID</key>
+						<string>4C778CEF11D9461600D91B36</string>
+						<key>PBXProjectModuleLabel</key>
+						<string>CGImage_TestViewController.m</string>
+						<key>_historyCapacity</key>
+						<integer>0</integer>
+						<key>bookmark</key>
+						<string>4C778CF011D9461600D91B36</string>
+						<key>history</key>
+						<array>
+							<string>4C778CD711D9447400D91B36</string>
+						</array>
+					</dict>
+					<key>SplitCount</key>
+					<string>1</string>
+				</dict>
+				<key>StatusBarVisibility</key>
+				<true/>
+			</dict>
+			<key>Geometry</key>
+			<dict>
+				<key>Frame</key>
+				<string>{{0, 20}, {884, 553}}</string>
+				<key>PBXModuleWindowStatusBarHidden2</key>
+				<false/>
+				<key>RubberWindowFrame</key>
+				<string>15 429 884 594 0 0 1680 1028 </string>
+			</dict>
+		</dict>
+	</array>
 	<key>PerspectiveWidths</key>
 	<array>
 		<integer>-1</integer>
@@ -264,8 +305,6 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateExpansionKey</key>
 							<array>
 								<string>29B97314FDCFA39411CA2CEA</string>
-								<string>29B97317FDCFA39411CA2CEA</string>
-								<string>4C778C7111D9233000D91B36</string>
 								<string>4C0263F611D448DC00C6A280</string>
 								<string>080E96DDFE201D6D7F000001</string>
 								<string>1C37FBAC04509CD000000102</string>
@@ -274,8 +313,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>19</integer>
-									<integer>15</integer>
+									<integer>4</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -317,7 +355,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>CGImage_TestViewController.m</string>
+								<string>CGImage_TestViewController.h</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -325,11 +363,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>CGImage_TestViewController.m</string>
+										<string>CGImage_TestViewController.h</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>4C778CC611D942E700D91B36</string>
+										<string>4C778CED11D9461600D91B36</string>
 										<key>history</key>
 										<array>
 											<string>4C4C62FB11D2A4080058D579</string>
@@ -338,8 +376,8 @@
 											<string>4C02654811D460D100C6A280</string>
 											<string>4C02655A11D4632100C6A280</string>
 											<string>4CA1B89011D589A600569614</string>
-											<string>4C778CC411D942E700D91B36</string>
-											<string>4C778CC511D942E700D91B36</string>
+											<string>4C778CEB11D9461600D91B36</string>
+											<string>4C778CEC11D9461600D91B36</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -539,6 +577,7 @@
 	<array>
 		<string>1C78EAAD065D492600B07095</string>
 		<string>1CD10A99069EF8BA00B06720</string>
+		<string>4C778CEE11D9461600D91B36</string>
 		<string>4CF70A8011D26B8600E0A9A4</string>
 		<string>/Users/michael/Desktop/SentryAPP/CGImage Test.xcodeproj</string>
 	</array>
@@ -564,7 +603,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string></string>
+								<string>CGImage_TestViewController.m</string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
@@ -581,6 +620,8 @@
 							<string>218pt</string>
 						</dict>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -633,7 +674,7 @@
 			<key>WindowToolGUID</key>
 			<string>4CF70A8011D26B8600E0A9A4</string>
 			<key>WindowToolIsVisible</key>
-			<false/>
+			<true/>
 		</dict>
 		<dict>
 			<key>FirstTimeWindowDisplayed</key>
