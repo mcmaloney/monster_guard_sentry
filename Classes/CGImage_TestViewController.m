@@ -11,6 +11,7 @@
 #define SPIN_CLOCK_WISE 1
 #define SPIN_COUNTERCLOCK_WISE -1
 
+
 @implementation CGImage_TestViewController
 
 @synthesize alertView;
@@ -26,6 +27,7 @@
 		[self pauseLayer:pinwheel_5.layer];
 		layers_paused = YES;
 		[self stopBars];
+		[self pauseActive];
 		UIImage *btnOnImage = [UIImage imageNamed:@"btn_ON.png"];
 		[toggleButton setImage:btnOnImage forState:UIControlStateNormal];
 		is_animating = NO;
@@ -44,6 +46,7 @@
 			[self startRotation:pinwheel_5.layer direction:SPIN_CLOCK_WISE duration:5.5];
 		}
 		[self startBars];
+		[self playActive];
 		UIImage *btnOffImage = [UIImage imageNamed:@"btn_OFF.png"];
 		[toggleButton setImage:btnOffImage forState:UIControlStateNormal];
 		is_animating = YES;
@@ -80,6 +83,16 @@
     layer.beginTime = timeSincePause;
 }
 
+- (void) playActive {
+	[activePlayer play];
+}
+
+- (void) pauseActive {
+	if (activePlayer.playing) {
+		[activePlayer pause];
+	}
+}
+	
 // Animate the bars.
 - (void) startBars {
 	barView.hidden = NO;
@@ -112,6 +125,17 @@
 	}
 	barView.animationImages = barArray;
 }
+
+
+// Load the sound players.
+- (void) setupSounds {
+	NSURL *url = [NSURL fileURLWithPath:[NSString stringWithFormat:@"%@/sentry_on_v1.aif", [[NSBundle mainBundle] resourcePath]]];
+	activePlayer = [[AVAudioPlayer alloc] initWithContentsOfURL:url error:nil];
+	activePlayer.numberOfLoops = -1;
+	activePlayer.currentTime = 0;
+	activePlayer.volume = -1.5;
+}
+	
 
 // Stop animating a given layer.
 - (void) stopRotation:(CALayer *)inLayer {
@@ -178,6 +202,7 @@
 	barView.hidden = YES;
 	[self setupRecorder];
 	[self setupBars];
+	[self setupSounds];
 }
 
 - (void)didReceiveMemoryWarning {

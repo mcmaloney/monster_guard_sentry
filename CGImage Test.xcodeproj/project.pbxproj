@@ -56,6 +56,7 @@
 		4C02651711D45AC500C6A280 /* btn_OFF.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C02651611D45AC500C6A280 /* btn_OFF.png */; };
 		4C4C62F711D2A3F00058D579 /* LogicTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C4C62F611D2A3F00058D579 /* LogicTests.m */; };
 		4C6CC2CE11D3EB3B0018C27F /* bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C6CC2CD11D3EB3B0018C27F /* bg.png */; };
+		4C778CB111D941F900D91B36 /* sentry_on_v1.aif in Resources */ = {isa = PBXBuildFile; fileRef = 4C778CB011D941F900D91B36 /* sentry_on_v1.aif */; };
 		4CCDA21211D2868D00AA56D6 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CCDA21111D2868D00AA56D6 /* AVFoundation.framework */; };
 		4CF70A6411D26B8100E0A9A4 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CF70A6311D26B8100E0A9A4 /* QuartzCore.framework */; };
 /* End PBXBuildFile section */
@@ -117,6 +118,7 @@
 		4C4C62F511D2A3F00058D579 /* LogicTests.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LogicTests.h; sourceTree = "<group>"; };
 		4C4C62F611D2A3F00058D579 /* LogicTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LogicTests.m; sourceTree = "<group>"; };
 		4C6CC2CD11D3EB3B0018C27F /* bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bg.png; path = "../Monster-Gaurd-Design/png/bg.png"; sourceTree = SOURCE_ROOT; };
+		4C778CB011D941F900D91B36 /* sentry_on_v1.aif */ = {isa = PBXFileReference; lastKnownFileType = file; name = sentry_on_v1.aif; path = "../Sentry SFX/BOUNCES/sentry_on_v1.aif"; sourceTree = SOURCE_ROOT; };
 		4CCDA21111D2868D00AA56D6 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		4CF70A6311D26B8100E0A9A4 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		8D1107310486CEB800E47090 /* CGImage_Test-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "CGImage_Test-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
@@ -192,6 +194,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				4C778C7111D9233000D91B36 /* audio */,
 				4C02651011D45A6000C6A280 /* alert.png */,
 				4C02648511D44DF500C6A280 /* bars */,
 				4C6CC2CD11D3EB3B0018C27F /* bg.png */,
@@ -289,6 +292,14 @@
 				4C0264EF11D4557600C6A280 /* btn_ON.png */,
 			);
 			name = button;
+			sourceTree = "<group>";
+		};
+		4C778C7111D9233000D91B36 /* audio */ = {
+			isa = PBXGroup;
+			children = (
+				4C778CB011D941F900D91B36 /* sentry_on_v1.aif */,
+			);
+			name = audio;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -394,6 +405,7 @@
 				4C0264F111D4557600C6A280 /* btn_ON.png in Resources */,
 				4C02651111D45A6000C6A280 /* alert.png in Resources */,
 				4C02651711D45AC500C6A280 /* btn_OFF.png in Resources */,
+				4C778CB111D941F900D91B36 /* sentry_on_v1.aif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

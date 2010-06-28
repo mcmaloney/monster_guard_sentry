@@ -1,7 +1,7 @@
 TCGImage Test
 v7
 r0
-t299209525.331292
+t299437763.608078
 cCheck dependencies
 cCpResource "build/Debug-iphoneos/CGImage Test.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
 cProcessInfoPlistFile "/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/Info.plist" CGImage_Test-Info.plist
@@ -721,7 +721,7 @@ s4542
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/CGImage Test
 t1277516725
-s30468
+s36336
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/CGImage_TestViewController.nib
 t1277516389
@@ -813,7 +813,7 @@ s948
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies299209525#299209525#0(0"0(0#1#0"4300911832#0"0#
+lSLF07#2@18"Check dependencies299437759#299437761#0(0"0(0#1#0"32088628383449192#0"0#
 
 CCodeSign "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app"
 s299016334.027223
@@ -825,12 +825,13 @@ o/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app: repl
 lSLF07#2@48"CodeSign "build/Debug-iphoneos/CGImage Test.app"299016334#299016334#0(104"/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app: replacing existing signature0(0#0#73"/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app4300911832#691"    cd "/Users/michael/Desktop/CGImage Test"    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Michael Maloney (E853M875MN)" "--resource-rules=/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app/ResourceRules.plist" --entitlements "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test.xcent" "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/CGImage Test.app"0#
 
 CCodeSign "/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app"
-s299209525.208263
-e299209525.331256
+s299437761.747776
+e299437763.607934
 r1
 xCodeSign
 x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app
-lSLF07#2@48"CodeSign "build/Debug-iphoneos/CGImage Test.app"299209525#299209525#0(0"0(0#0#70"/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app4300911832#677"    cd /Users/michael/Desktop/SentryAPP    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Michael Maloney (E853M875MN)" "--resource-rules=/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/ResourceRules.plist" --entitlements "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test.xcent" "/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app"0#
+o/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app: replacing existing signature
+lSLF07#2@48"CodeSign "build/Debug-iphoneos/CGImage Test.app"299437761#299437763#0(101"/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app: replacing existing signature0(0#0#70"/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app30681085998727236#677"    cd /Users/michael/Desktop/SentryAPP    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Michael Maloney (E853M875MN)" "--resource-rules=/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app/ResourceRules.plist" --entitlements "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/CGImage Test.xcent" "/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/CGImage Test.app"0#
 
 CCompileC "build/CGImage Test.build/Debug-iphoneos/CGImage Test.build/Objects-normal/armv6/CGImage_TestAppDelegate.o" "/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
 s299014198.871271

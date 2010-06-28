@@ -31,6 +31,8 @@
 	
 	NSMutableArray *barArray;
 	IBOutlet UIImageView *barView;
+	
+	AVAudioPlayer *activePlayer;
 }
 
 @property(nonatomic, retain) IBOutlet UIImageView *alertView;
@@ -45,6 +47,8 @@
 - (void) stopBars;
 - (void) showAlertView;
 - (void) hideAlertView;
+- (void) playActive;
+- (void) pauseActive;
 
 @end
 
