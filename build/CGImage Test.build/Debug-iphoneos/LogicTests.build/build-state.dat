@@ -1,11 +1,8 @@
 TLogicTests
 v7
 r0
-t299016950.648321
+t299622181.539959
 cCheck dependencies
-cProcessInfoPlistFile "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/LogicTests.octest/Info.plist" LogicTests-Info.plist
-cPhaseScriptExecution "Run Script" "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/LogicTests.build/Script-4C4C629F11D2A22A0058D579.sh"
-cTouch "/Users/michael/Desktop/CGImage Test/build/Debug-iphoneos/LogicTests.octest"
 
 N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk
 c000000004B79A1A50000000000000110
@@ -21,6 +18,36 @@ N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/
 c000000004B2B61610000000000000788
 t1261134177
 s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004C059C0E0000000000000110
+t1275436046
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
+c000000004B9F30A000000000000007E1
+t1268723872
+s2017
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B9F318D000000000000098F
+t1268724109
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C05C1B10000000000000110
+t1275445681
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
+c000000004BFE174E00000000000008A5
+t1274943310
+s2213
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C04711400000000000009CD
+t1275359508
+s2509
 
 N/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphoneos/LogicTests.build/Script-4C4C629F11D2A22A0058D579.sh
 c000000004C226B750000000000000062
@@ -48,6 +75,10 @@ t1277396044
 s260
 i"LogicTests.h"
 
+N/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv6/LogicTests
+t2
+s0
+
 N/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv6/LogicTests.LinkFileList
 c00000000000000000000000000000000
 t2
@@ -57,22 +88,35 @@ N/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/LogicT
 t2
 s0
 
+N/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv7/LogicTests
+t2
+s0
+
+N/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv7/LogicTests.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv7/LogicTests.o
+t2
+s0
+
 N/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/LogicTests.build/Script-4C4C62EC11D2A3C00058D579.sh
 c00000000000000000000000000000000
 t2
 s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/LogicTests.octest
-t1277324149
-s102
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/LogicTests.octest.dSYM
 t2
 s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/LogicTests.octest/Info.plist
-t1277324149
-s509
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/LogicTests.octest/LogicTests
 t2
@@ -85,12 +129,24 @@ s641
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies299016950#299016950#0(0"0(0#1#0"4300911832#0"0#
+lSLF07#2@18"Check dependencies299622181#299622181#0(300"[BEROR]error: There is no SDK with specified name or path '/Users/michael/Desktop/SentryAPP/iPhone'[BEROR]error: There is no SDK with specified name or path '/Users/michael/Desktop/SentryAPP/iPhone'[BEROR]error: There is no SDK with specified name or path '/Users/michael/Desktop/SentryAPP/iPhone'0(0#1#0"8609240736#0"0#
 
 CCompileC "build/CGImage Test.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv6/LogicTests.o" /Users/michael/Desktop/SentryAPP/LogicTests.m normal armv6 objective-c com.apple.compilers.gcc.4_2
 r0
 
+CCompileC "build/CGImage Test.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv7/LogicTests.o" /Users/michael/Desktop/SentryAPP/LogicTests.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCreateUniversalBinary /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/LogicTests.octest/LogicTests normal "armv6 armv7"
+r0
+
 CGenerateDSYMFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/LogicTests.octest.dSYM /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/LogicTests.octest/LogicTests
+r0
+
+CLd "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv6/LogicTests" normal armv6
+r0
+
+CLd "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphoneos/LogicTests.build/Objects-normal/armv7/LogicTests" normal armv7
 r0
 
 CLd /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/LogicTests.octest/LogicTests normal armv6

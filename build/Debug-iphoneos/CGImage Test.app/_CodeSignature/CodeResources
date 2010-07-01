@@ -130,19 +130,19 @@
 		</data>
 		<key>CGImage_TestViewController.nib</key>
 		<data>
-		fKLIDFzubVWVCBwHiP25o/KlugE=
-		</data>
-		<key>Default.png</key>
-		<data>
-		WWbOSiLNGKBrMEfRVdRfbz03+lU=
+		v+GjedvVRvy5/BeBfgqgL/SM+JE=
 		</data>
 		<key>MainWindow.nib</key>
 		<data>
-		K/1hxGgYRgzGQuc7YEzTnKn32AU=
+		amp5ybB+e+Z4YhLzOTzQQgk47bM=
 		</data>
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>alarm_v1.aif</key>
+		<data>
+		qoOBKRnzDPpEHV6gF8x1WDYDUko=
 		</data>
 		<key>alert.png</key>
 		<data>
@@ -152,29 +152,17 @@
 		<data>
 		uOu4qwR4aLa01qOgJnktrThtcwY=
 		</data>
-		<key>black.png</key>
-		<data>
-		5t1A+aiVwvOu3UoB4svcoc2G0WI=
-		</data>
 		<key>btn_OFF.png</key>
 		<data>
-		7crNbVB9hvjImrz41Qz+yvPOOIg=
+		Ig+C3FIPDfhVqopcYmBVVND+xs0=
 		</data>
 		<key>btn_ON.png</key>
 		<data>
-		XFpvY7q2v9IyebgSUOQoRpZefLc=
-		</data>
-		<key>color_back.png</key>
-		<data>
-		WRaNcHW6/PAd7w+ZjQ4P0+ls8O0=
-		</data>
-		<key>color_front.png</key>
-		<data>
-		fw4LocOS1D3YUY6t2ItNzYeKIWw=
+		3gSOcUqd2xAg+COy/5ad9xZ6DhQ=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		eNitvohNKOilpIGAFGNTXT7kdqc=
+		ajg0IJzkL+IGOuse4kRW+AJS1zM=
 		</data>
 		<key>pimwheel-1.png</key>
 		<data>
@@ -196,13 +184,9 @@
 		<data>
 		DZyvqwaVVdlI1ZpLG5Il2rxNGAM=
 		</data>
-		<key>pinwheel_1.png</key>
+		<key>sentry_on_v1.aif</key>
 		<data>
-		zJR0u5NzuiUOzVYzLyMziH5qU9E=
-		</data>
-		<key>pinwheel_2.png</key>
-		<data>
-		5y+oceRQ0W1mSx9UeK3e/+zZvfE=
+		oQkA7610HTl7tqTVmiok7mBMhKk=
 		</data>
 	</dict>
 	<key>rules</key>

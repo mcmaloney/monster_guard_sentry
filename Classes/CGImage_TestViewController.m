@@ -14,8 +14,7 @@
 
 @implementation CGImage_TestViewController
 
-@synthesize alertView;
-@synthesize toggleButton;
+@synthesize alertView, toggleButton;
 
 // Start or stop the animation.
 - (IBAction)toggleAnimation:(id)sender {
@@ -25,11 +24,12 @@
 		[self pauseLayer:pinwheel_3.layer];
 		[self pauseLayer:pinwheel_4.layer];
 		[self pauseLayer:pinwheel_5.layer];
-		layers_paused = YES;
+		
 		[self stopBars];
 		[self pauseActive];
 		UIImage *btnOnImage = [UIImage imageNamed:@"btn_ON.png"];
 		[toggleButton setImage:btnOnImage forState:UIControlStateNormal];
+		layers_paused = YES;
 		is_animating = NO;
 	} else {
 		if (layers_paused) {
@@ -46,7 +46,7 @@
 			[self startRotation:pinwheel_5.layer direction:SPIN_CLOCK_WISE duration:5.5];
 		}
 		[self startBars];
-		[self playActive];
+		[activePlayer play];
 		UIImage *btnOffImage = [UIImage imageNamed:@"btn_OFF.png"];
 		[toggleButton setImage:btnOffImage forState:UIControlStateNormal];
 		is_animating = YES;
@@ -81,10 +81,6 @@
     layer.beginTime = 0.0;
     CFTimeInterval timeSincePause = [layer convertTime:CACurrentMediaTime() fromLayer:nil] - pausedTime;
     layer.beginTime = timeSincePause;
-}
-
-- (void) playActive {
-	[activePlayer play];
 }
 
 - (void) pauseActive {
@@ -126,14 +122,19 @@
 	barView.animationImages = barArray;
 }
 
-
 // Load the sound players.
 - (void) setupSounds {
-	NSURL *url = [NSURL fileURLWithPath:[NSString stringWithFormat:@"%@/sentry_on_v1.aif", [[NSBundle mainBundle] resourcePath]]];
-	activePlayer = [[AVAudioPlayer alloc] initWithContentsOfURL:url error:nil];
+	NSURL *activeUrl = [NSURL fileURLWithPath:[NSString stringWithFormat:@"%@/sentry_on_v2.aif", [[NSBundle mainBundle] resourcePath]]];
+	activePlayer = [[AVAudioPlayer alloc] initWithContentsOfURL:activeUrl error:nil];
 	activePlayer.numberOfLoops = -1;
 	activePlayer.currentTime = 0;
 	activePlayer.volume = -1.5;
+	
+	NSURL *alarmUrl = [NSURL fileURLWithPath:[NSString stringWithFormat:@"%@/alarm_v1.aif", [[NSBundle mainBundle] resourcePath]]];
+	alarmPlayer = [[AVAudioPlayer alloc] initWithContentsOfURL:alarmUrl error:nil];
+	alarmPlayer.numberOfLoops = 0;
+	alarmPlayer.currentTime = 0;
+	alarmPlayer.volume = 1.0;
 }
 	
 
@@ -164,6 +165,7 @@
 	[UIView setAnimationDuration:0.5];
 	[alertView setAlpha:1.0];
 	[UIView commitAnimations];
+	[alarmPlayer play];
 }
 
 // Fade the alert view out.
@@ -196,13 +198,14 @@
 
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
 - (void)viewDidLoad {
-	[UIApplication sharedApplication].idleTimerDisabled = YES;
-    [super viewDidLoad];
 	alertView.hidden = YES;
 	barView.hidden = YES;
 	[self setupRecorder];
 	[self setupBars];
 	[self setupSounds];
+	[UIApplication sharedApplication].idleTimerDisabled = YES;
+    [super viewDidLoad];
+	
 }
 
 - (void)didReceiveMemoryWarning {
@@ -219,13 +222,7 @@
 
 
 - (void)dealloc {
-	[levelTimer release];
-	[recorder release];
-	[fullRotation release];
-	[barArray release];
-	[UIApplication sharedApplication].idleTimerDisabled = NO;
     [super dealloc];
-	
 }
 
 @end

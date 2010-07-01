@@ -1,0 +1,1336 @@
+TSentryAPP
+v7
+r0
+t299697518.123583
+cCheck dependencies
+cCpResource build/Debug-iphoneos/SentryAPP.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/Info.plist CGImage_Test-Info.plist
+cCompileXIB /Users/michael/Desktop/SentryAPP/MainWindow.xib
+cCompileXIB /Users/michael/Desktop/SentryAPP/CGImage_TestViewController.xib
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/bg.png ../Monster-Gaurd-Design/png/bg.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/00.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/00.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/01.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/01.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/02.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/02.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/03.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/03.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/04.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/04.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/05.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/05.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/06.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/06.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/07.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/07.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/08.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/08.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/09.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/09.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/10.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/10.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/11.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/11.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/12.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/12.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/13.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/13.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/14.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/14.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/15.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/15.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/16.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/16.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/17.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/17.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/18.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/18.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/19.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/19.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/20.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/20.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/21.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/21.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/22.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/22.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/23.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/23.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/24.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/24.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/25.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/25.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/26.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/26.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/27.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/27.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/28.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/28.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/29.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/29.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/30.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/30.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-1.png ../Monster-Gaurd-Design/png/pimwheel-1.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-2.png ../Monster-Gaurd-Design/png/pimwheel-2.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-3.png ../Monster-Gaurd-Design/png/pimwheel-3.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-4.png ../Monster-Gaurd-Design/png/pimwheel-4.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-5.png ../Monster-Gaurd-Design/png/pimwheel-5.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/btn_ON.png ../Monster-Gaurd-Design/png/btn_ON.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/alert.png ../Monster-Gaurd-Design/png/alert.png
+cCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/btn_OFF.png ../Monster-Gaurd-Design/png/btn_OFF.png
+cCpResource build/Debug-iphoneos/SentryAPP.app/sentry_on_v1.aif "../Sentry SFX/BOUNCES/sentry_on_v1.aif"
+cCpResource build/Debug-iphoneos/SentryAPP.app/alarm_v1.aif "../Sentry SFX/BOUNCES/alarm_v1.aif"
+cCpResource build/Debug-iphoneos/SentryAPP.app/fifth.aif "../Sentry SFX/BOUNCES/SFX Splits/fifth.aif"
+cCpResource build/Debug-iphoneos/SentryAPP.app/glass.aif "../Sentry SFX/BOUNCES/SFX Splits/glass.aif"
+cCpResource build/Debug-iphoneos/SentryAPP.app/ping.aif "../Sentry SFX/BOUNCES/SFX Splits/ping.aif"
+cCpResource build/Debug-iphoneos/SentryAPP.app/pulsing.aif "../Sentry SFX/BOUNCES/SFX Splits/pulsing.aif"
+cCpResource build/Debug-iphoneos/SentryAPP.app/sentry_on_v2.aif "../Sentry SFX/BOUNCES/sentry_on_v2.aif"
+cProcessPCH /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-dmjvjsxsbtqyvkdeudssmnevnzir/CGImage_Test_Prefix.pch.gch CGImage_Test_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-gbivlvnobgxlpuahbfxbhxdpxmsk/CGImage_Test_Prefix.pch.gch CGImage_Test_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv6/main.o /Users/michael/Desktop/SentryAPP/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv6/CGImage_TestAppDelegate.o /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv6/CGImage_TestViewController.o /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv7/main.o /Users/michael/Desktop/SentryAPP/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv6/SentryAPP normal armv6
+cCompileC build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv7/CGImage_TestAppDelegate.o /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv7/CGImage_TestViewController.o /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv7/SentryAPP normal armv7
+cCreateUniversalBinary /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/SentryAPP normal "armv6 armv7"
+cGenerateDSYMFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app.dSYM /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/SentryAPP
+cProcessProductPackaging "/Users/michael/Library/MobileDevice/Provisioning Profiles/5A3AD02A-0D84-4440-AD78-E82D5FFA958F.mobileprovision" /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/embedded.mobileprovision
+cTouch /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP.xcent
+cCodeSign /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C05C1B10000000000000110
+t1275445681
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+c000000004BF4B7F900000000000001A7
+t1274329081
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004BF4B7F900000000000001E5
+t1274329081
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004C0473C400000000001AA470
+t1275360196
+s1746032
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004C0473B9000000000000065C
+t1275360185
+s1628
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreAudio.framework/Headers/CoreAudioTypes.h
+c000000004BFE063B000000000001032E
+t1274938939
+s66350
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c000000004BFF3BBF00000000000064FD
+t1275018175
+s25853
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CAAnimation.h
+c000000004C0458CD00000000000028F1
+t1275353293
+s10481
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C045AEF0000000000253180
+t1275353839
+s2437504
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C04711400000000000009CD
+t1275359508
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471FC0000000002D563E0
+t1275359740
+s47539168
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/00.png
+c000000004C2427030000000000001247
+t1277437699
+s4679
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/01.png
+c000000004C242703000000000000133F
+t1277437699
+s4927
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/02.png
+c000000004C24270300000000000011E6
+t1277437699
+s4582
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/03.png
+c000000004C242703000000000000123B
+t1277437699
+s4667
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/04.png
+c000000004C2427030000000000001291
+t1277437699
+s4753
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/05.png
+c000000004C24270400000000000011C2
+t1277437700
+s4546
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/06.png
+c000000004C24270400000000000010F8
+t1277437700
+s4344
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/07.png
+c000000004C2427040000000000000E90
+t1277437700
+s3728
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/08.png
+c000000004C2427040000000000000D1B
+t1277437700
+s3355
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/09.png
+c000000004C2427040000000000000D82
+t1277437700
+s3458
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/10.png
+c000000004C2427040000000000000D42
+t1277437700
+s3394
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/11.png
+c000000004C242704000000000000110B
+t1277437700
+s4363
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/12.png
+c000000004C2427040000000000001044
+t1277437700
+s4164
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/13.png
+c000000004C2427040000000000000FBB
+t1277437700
+s4027
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/14.png
+c000000004C242704000000000000107B
+t1277437700
+s4219
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/15.png
+c000000004C2427040000000000001102
+t1277437700
+s4354
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/16.png
+c000000004C2427040000000000001158
+t1277437700
+s4440
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/17.png
+c000000004C24270400000000000010AE
+t1277437700
+s4270
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/18.png
+c000000004C2427040000000000000FD7
+t1277437700
+s4055
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/19.png
+c000000004C2427040000000000001149
+t1277437700
+s4425
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/20.png
+c000000004C242704000000000000120D
+t1277437700
+s4621
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/21.png
+c000000004C2427040000000000001162
+t1277437700
+s4450
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/22.png
+c000000004C24270400000000000011F8
+t1277437700
+s4600
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/23.png
+c000000004C2427040000000000000FF2
+t1277437700
+s4082
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/24.png
+c000000004C2427040000000000000FE4
+t1277437700
+s4068
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/25.png
+c000000004C2427040000000000000F31
+t1277437700
+s3889
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/26.png
+c000000004C24270400000000000010B8
+t1277437700
+s4280
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/27.png
+c000000004C2427040000000000001044
+t1277437700
+s4164
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/28.png
+c000000004C2427040000000000000F07
+t1277437700
+s3847
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/29.png
+c000000004C2427040000000000000FA8
+t1277437700
+s4008
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/30.png
+c000000004C2427040000000000000F06
+t1277437700
+s3846
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/alert.png
+c000000004C2422BF000000000000C90C
+t1277436607
+s51468
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/bg.png
+c000000004C23B2FB00000000000170CD
+t1277407995
+s94413
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/btn_OFF.png
+c000000004C2B9E1400000000000022DC
+t1277926932
+s8924
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/btn_ON.png
+c000000004C2B9D630000000000002FFB
+t1277926755
+s12283
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/pimwheel-1.png
+c000000004C241D9D000000000000A87C
+t1277435293
+s43132
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/pimwheel-2.png
+c000000004C241D89000000000000370F
+t1277435273
+s14095
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/pimwheel-3.png
+c000000004C241CDE0000000000008998
+t1277435102
+s35224
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/pimwheel-4.png
+c000000004C241CD5000000000000E6BD
+t1277435093
+s59069
+
+N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/pimwheel-5.png
+c000000004C241CC5000000000000CE88
+t1277435077
+s52872
+
+N/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/SFX Splits/fifth.aif
+c000000004C2CC52000000000000E6894
+t1278002464
+s944276
+
+N/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/SFX Splits/glass.aif
+c000000004C2CC4EE000000000007300C
+t1278002414
+s471052
+
+N/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/SFX Splits/ping.aif
+c000000004C2CC538000000000007300C
+t1278002488
+s471052
+
+N/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/SFX Splits/pulsing.aif
+c000000004C2CC4C000000000000E5D8C
+t1278002368
+s941452
+
+N/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/alarm_v1.aif
+c000000004C291D77000000000007300C
+t1277762935
+s471052
+
+N/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/sentry_on_v1.aif
+c000000004C28EB82000000000007300C
+t1277750146
+s471052
+
+N/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/sentry_on_v2.aif
+c000000004C2CC78900000000000E5D8C
+t1278003081
+s941452
+
+N/Users/michael/Desktop/SentryAPP/CGImage_TestViewController.xib
+c000000004C2BAFE30000000000008253
+t1277931491
+s33363
+
+N/Users/michael/Desktop/SentryAPP/CGImage_Test_Prefix.pch
+c000000004C222B6500000000000000C1
+t1277307749
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.h
+c000000004C222B6500000000000001FF
+t1277307749
+s511
+i<UIKit/UIKit.h>
+
+N/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m
+c000000004C222B6500000000000002BE
+t1277307749
+s702
+i"CGImage_TestAppDelegate.h"
+i"CGImage_TestViewController.h"
+
+N/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.h
+c000000004C2CC9080000000000000578
+t1278003464
+s1400
+i<UIKit/UIKit.h>
+i<QuartzCore/CAAnimation.h>
+i<AVFoundation/AVFoundation.h>
+i<CoreAudio/CoreAudioTypes.h>
+i<OpenAL/al.h>
+
+N/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m
+c000000004C2CCC010000000000001C2E
+t1278004225
+s7214
+i"CGImage_TestViewController.h"
+
+N/Users/michael/Desktop/SentryAPP/MainWindow.xib
+c000000004C222B650000000000002683
+t1277307749
+s9859
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app
+t1278004718
+s1972
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app.dSYM
+t1278004717
+s102
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/00.png
+t1278004713
+s5960
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/01.png
+t1278004713
+s6251
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/02.png
+t1278004713
+s5788
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/03.png
+t1278004713
+s5992
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/04.png
+t1278004714
+s6045
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/05.png
+t1278004714
+s5502
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/06.png
+t1278004714
+s5222
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/07.png
+t1278004714
+s4258
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/08.png
+t1278004714
+s3859
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/09.png
+t1278004714
+s4007
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/10.png
+t1278004714
+s3936
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/11.png
+t1278004714
+s5423
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/12.png
+t1278004714
+s5090
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/13.png
+t1278004714
+s5018
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/14.png
+t1278004714
+s5163
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/15.png
+t1278004714
+s5328
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/16.png
+t1278004714
+s5612
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/17.png
+t1278004714
+s5388
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/18.png
+t1278004714
+s5032
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/19.png
+t1278004714
+s5360
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/20.png
+t1278004714
+s5725
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/21.png
+t1278004714
+s5523
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/22.png
+t1278004715
+s5707
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/23.png
+t1278004715
+s4947
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/24.png
+t1278004715
+s4955
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/25.png
+t1278004715
+s4713
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/26.png
+t1278004715
+s5325
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/27.png
+t1278004715
+s5054
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/28.png
+t1278004715
+s4507
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/29.png
+t1278004715
+s4721
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/30.png
+t1278004715
+s4542
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/CGImage_TestViewController.nib
+t1278004713
+s2763
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/Info.plist
+t1278004712
+s761
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/MainWindow.nib
+t1278004713
+s1133
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/PkgInfo
+t1278004712
+s8
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/ResourceRules.plist
+t1278004712
+s485
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/SentryAPP
+t1278004717
+s67700
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/alarm_v1.aif
+t1278004715
+s471052
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/alert.png
+t1278004715
+s45991
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/bg.png
+t1278004715
+s105503
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/btn_OFF.png
+t1278004715
+s11666
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/btn_ON.png
+t1278004715
+s15092
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/embedded.mobileprovision
+t1278004717
+s7302
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/fifth.aif
+t1278004715
+s944276
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/glass.aif
+t1278004715
+s471052
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-1.png
+t1278004715
+s25797
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-2.png
+t1278004715
+s11830
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-3.png
+t1278004715
+s23361
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-4.png
+t1278004715
+s43255
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-5.png
+t1278004715
+s37926
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/ping.aif
+t1278004715
+s471052
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pulsing.aif
+t1278004715
+s941452
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/sentry_on_v1.aif
+t1278004715
+s471052
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/sentry_on_v2.aif
+t1278004715
+s941452
+
+N/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv6/CGImage_TestAppDelegate.o
+t1278004716
+s46852
+
+N/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv6/CGImage_TestViewController.o
+t1278004716
+s67828
+
+N/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv6/SentryAPP
+t1278004717
+s31280
+
+N/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv6/SentryAPP.LinkFileList
+c000000004C2CCDE8000000000000017F
+t1278004712
+s383
+
+N/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv6/main.o
+t1278004716
+s6428
+
+N/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv7/CGImage_TestAppDelegate.o
+t1278004717
+s46792
+
+N/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv7/CGImage_TestViewController.o
+t1278004717
+s66380
+
+N/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv7/SentryAPP
+t1278004717
+s30836
+
+N/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv7/SentryAPP.LinkFileList
+c000000004C2CCDE8000000000000017F
+t1278004712
+s383
+
+N/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv7/main.o
+t1278004717
+s6412
+
+N/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP.xcent
+t1278004717
+s424
+
+N/Users/michael/Desktop/SentryAPP/main.m
+c000000004C222B650000000000000170
+t1277307749
+s368
+i<UIKit/UIKit.h>
+
+N/Users/michael/Library/MobileDevice/Provisioning Profiles/5A3AD02A-0D84-4440-AD78-E82D5FFA958F.mobileprovision
+c000000004C2BADEF0000000000001C86
+t1277930991
+s7302
+
+N/var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-dmjvjsxsbtqyvkdeudssmnevnzir/CGImage_Test_Prefix.pch.gch
+t1277930766
+s9831984
+
+N/var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-gbivlvnobgxlpuahbfxbhxdpxmsk/CGImage_Test_Prefix.pch.gch
+t1277930766
+s10290736
+
+NCGImage_Test-Info.plist
+c000000004C24286200000000000003B4
+t1277438050
+s948
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies299697512#299697512#0(0"0(0#1#0"8608657472#0"0#
+
+CCodeSign /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app
+s299697517.757383
+e299697518.123515
+r1
+xCodeSign
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app
+lSLF07#2@43"CodeSign build/Debug-iphoneos/SentryAPP.app299697517#299697518#0(0"0(0#0#67"/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app8614166816#637"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Michael Maloney (E853M875MN)" --resource-rules=/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/ResourceRules.plist --entitlements /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP.xcent /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app0#
+
+CCompileC build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv6/CGImage_TestAppDelegate.o /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s299697515.918201
+e299697516.389017
+r1
+xCompileC
+xbuild/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv6/CGImage_TestAppDelegate.o
+x/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m299697515#299697516#0(0"0(0#0#66"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m8601823712#1750"    cd /Users/michael/Desktop/SentryAPP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP-generated-files.hmap -I/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP-own-target-headers.hmap -I/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP-all-target-headers.hmap -iquote /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP-project-headers.hmap -F/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos -I/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/include -I/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/DerivedSources/armv6 -I/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/DerivedSources -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-dmjvjsxsbtqyvkdeudssmnevnzir/CGImage_Test_Prefix.pch -c /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m -o /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv6/CGImage_TestAppDelegate.o0#
+
+CCompileC build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv6/CGImage_TestViewController.o /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s299697516.341626
+e299697516.489573
+r1
+xCompileC
+xbuild/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv6/CGImage_TestViewController.o
+x/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299697516#299697516#0(0"0(0#0#69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m8616952512#1756"    cd /Users/michael/Desktop/SentryAPP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP-generated-files.hmap -I/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP-own-target-headers.hmap -I/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP-all-target-headers.hmap -iquote /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP-project-headers.hmap -F/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos -I/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/include -I/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/DerivedSources/armv6 -I/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/DerivedSources -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-dmjvjsxsbtqyvkdeudssmnevnzir/CGImage_Test_Prefix.pch -c /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m -o /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv6/CGImage_TestViewController.o0#
+
+CCompileC build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv6/main.o /Users/michael/Desktop/SentryAPP/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s299697515.917309
+e299697516.341483
+r1
+xCompileC
+xbuild/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv6/main.o
+x/Users/michael/Desktop/SentryAPP/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/michael/Desktop/SentryAPP/main.m299697515#299697516#0(0"0(0#0#39"/Users/michael/Desktop/SentryAPP/main.m8602632512#1704"    cd /Users/michael/Desktop/SentryAPP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP-generated-files.hmap -I/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP-own-target-headers.hmap -I/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP-all-target-headers.hmap -iquote /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP-project-headers.hmap -F/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos -I/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/include -I/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/DerivedSources/armv6 -I/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/DerivedSources -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-dmjvjsxsbtqyvkdeudssmnevnzir/CGImage_Test_Prefix.pch -c /Users/michael/Desktop/SentryAPP/main.m -o /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv7/CGImage_TestAppDelegate.o /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s299697517.251793
+e299697517.384946
+r1
+xCompileC
+xbuild/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv7/CGImage_TestAppDelegate.o
+x/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m299697517#299697517#0(0"0(0#0#66"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m8615771840#1750"    cd /Users/michael/Desktop/SentryAPP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP-generated-files.hmap -I/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP-own-target-headers.hmap -I/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP-all-target-headers.hmap -iquote /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP-project-headers.hmap -F/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos -I/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/include -I/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/DerivedSources/armv7 -I/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/DerivedSources -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-gbivlvnobgxlpuahbfxbhxdpxmsk/CGImage_Test_Prefix.pch -c /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m -o /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv7/CGImage_TestAppDelegate.o0#
+
+CCompileC build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv7/CGImage_TestViewController.o /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s299697517.321985
+e299697517.464100
+r1
+xCompileC
+xbuild/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv7/CGImage_TestViewController.o
+x/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299697517#299697517#0(0"0(0#0#69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m8615509568#1756"    cd /Users/michael/Desktop/SentryAPP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP-generated-files.hmap -I/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP-own-target-headers.hmap -I/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP-all-target-headers.hmap -iquote /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP-project-headers.hmap -F/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos -I/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/include -I/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/DerivedSources/armv7 -I/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/DerivedSources -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-gbivlvnobgxlpuahbfxbhxdpxmsk/CGImage_Test_Prefix.pch -c /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m -o /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv7/CGImage_TestViewController.o0#
+
+CCompileC build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv7/main.o /Users/michael/Desktop/SentryAPP/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s299697516.389114
+e299697517.321896
+r1
+xCompileC
+xbuild/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv7/main.o
+x/Users/michael/Desktop/SentryAPP/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/michael/Desktop/SentryAPP/main.m299697516#299697517#0(0"0(0#0#39"/Users/michael/Desktop/SentryAPP/main.m8616705568#1704"    cd /Users/michael/Desktop/SentryAPP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP-generated-files.hmap -I/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP-own-target-headers.hmap -I/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP-all-target-headers.hmap -iquote /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP-project-headers.hmap -F/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos -I/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/include -I/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/DerivedSources/armv7 -I/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/DerivedSources -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-gbivlvnobgxlpuahbfxbhxdpxmsk/CGImage_Test_Prefix.pch -c /Users/michael/Desktop/SentryAPP/main.m -o /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/michael/Desktop/SentryAPP/CGImage_TestViewController.xib
+s299697512.966391
+e299697513.413372
+r1
+xCompileXIB
+x/Users/michael/Desktop/SentryAPP/CGImage_TestViewController.xib
+lSLF07#2@41"CompileXIB CGImage_TestViewController.xib299697512#299697513#0(0"0(0#0#63"/Users/michael/Desktop/SentryAPP/CGImage_TestViewController.xib8615011488#558"    cd /Users/michael/Desktop/SentryAPP    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/CGImage_TestViewController.nib /Users/michael/Desktop/SentryAPP/CGImage_TestViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB /Users/michael/Desktop/SentryAPP/MainWindow.xib
+s299697512.965786
+e299697513.371596
+r1
+xCompileXIB
+x/Users/michael/Desktop/SentryAPP/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib299697512#299697513#0(0"0(0#0#47"/Users/michael/Desktop/SentryAPP/MainWindow.xib8615647072#526"    cd /Users/michael/Desktop/SentryAPP    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/MainWindow.nib /Users/michael/Desktop/SentryAPP/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/00.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/00.png
+s299697513.413466
+e299697513.795294
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/00.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/00.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/00.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/00.png299697513#299697513#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/00.png8614639200#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/00.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/00.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/01.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/01.png
+s299697513.795378
+e299697513.849045
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/01.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/01.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/01.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/01.png299697513#299697513#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/01.png8613880096#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/01.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/01.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/02.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/02.png
+s299697513.849124
+e299697513.916540
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/02.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/02.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/02.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/02.png299697513#299697513#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/02.png8613649504#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/02.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/02.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/03.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/03.png
+s299697513.916628
+e299697513.979880
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/03.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/03.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/03.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/03.png299697513#299697513#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/03.png8613386944#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/03.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/03.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/04.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/04.png
+s299697513.980028
+e299697514.028196
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/04.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/04.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/04.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/04.png299697513#299697514#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/04.png8613127136#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/04.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/04.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/05.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/05.png
+s299697514.028276
+e299697514.073221
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/05.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/05.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/05.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/05.png299697514#299697514#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/05.png8608127616#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/05.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/05.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/06.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/06.png
+s299697514.073295
+e299697514.114693
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/06.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/06.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/06.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/06.png299697514#299697514#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/06.png8604839616#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/06.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/06.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/07.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/07.png
+s299697514.114773
+e299697514.155704
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/07.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/07.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/07.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/07.png299697514#299697514#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/07.png8604154496#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/07.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/07.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/08.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/08.png
+s299697514.155788
+e299697514.199022
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/08.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/08.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/08.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/08.png299697514#299697514#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/08.png8603715552#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/08.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/08.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/09.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/09.png
+s299697514.199100
+e299697514.282328
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/09.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/09.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/09.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/09.png299697514#299697514#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/09.png8602100640#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/09.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/09.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/10.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/10.png
+s299697514.282403
+e299697514.349200
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/10.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/10.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/10.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/10.png299697514#299697514#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/10.png8599328960#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/10.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/10.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/11.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/11.png
+s299697514.349308
+e299697514.393985
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/11.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/11.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/11.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/11.png299697514#299697514#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/11.png8614954912#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/11.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/11.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/12.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/12.png
+s299697514.394063
+e299697514.435829
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/12.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/12.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/12.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/12.png299697514#299697514#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/12.png8614096096#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/12.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/12.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/13.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/13.png
+s299697514.435912
+e299697514.535728
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/13.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/13.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/13.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/13.png299697514#299697514#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/13.png8608243072#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/13.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/13.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/14.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/14.png
+s299697514.535922
+e299697514.590543
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/14.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/14.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/14.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/14.png299697514#299697514#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/14.png8617389984#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/14.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/14.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/15.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/15.png
+s299697514.590628
+e299697514.653420
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/15.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/15.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/15.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/15.png299697514#299697514#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/15.png8617197312#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/15.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/15.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/16.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/16.png
+s299697514.653501
+e299697514.706695
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/16.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/16.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/16.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/16.png299697514#299697514#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/16.png8614512416#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/16.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/16.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/17.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/17.png
+s299697514.706781
+e299697514.757210
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/17.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/17.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/17.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/17.png299697514#299697514#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/17.png8614470144#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/17.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/17.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/18.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/18.png
+s299697514.757292
+e299697514.804400
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/18.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/18.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/18.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/18.png299697514#299697514#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/18.png8616702848#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/18.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/18.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/19.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/19.png
+s299697514.804485
+e299697514.873142
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/19.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/19.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/19.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/19.png299697514#299697514#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/19.png8607834112#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/19.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/19.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/20.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/20.png
+s299697514.873219
+e299697514.920867
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/20.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/20.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/20.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/20.png299697514#299697514#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/20.png8615895424#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/20.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/20.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/21.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/21.png
+s299697514.920963
+e299697514.968205
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/21.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/21.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/21.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/21.png299697514#299697514#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/21.png8608350016#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/21.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/21.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/22.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/22.png
+s299697514.968280
+e299697515.016571
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/22.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/22.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/22.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/22.png299697514#299697515#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/22.png8599675200#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/22.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/22.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/23.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/23.png
+s299697515.016651
+e299697515.063654
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/23.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/23.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/23.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/23.png299697515#299697515#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/23.png8617013888#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/23.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/23.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/24.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/24.png
+s299697515.050931
+e299697515.099708
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/24.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/24.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/24.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/24.png299697515#299697515#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/24.png8616806688#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/24.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/24.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/25.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/25.png
+s299697515.063730
+e299697515.111431
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/25.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/25.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/25.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/25.png299697515#299697515#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/25.png8616617440#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/25.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/25.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/26.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/26.png
+s299697515.099786
+e299697515.145339
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/26.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/26.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/26.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/26.png299697515#299697515#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/26.png8616418144#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/26.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/26.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/27.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/27.png
+s299697515.111512
+e299697515.158487
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/27.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/27.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/27.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/27.png299697515#299697515#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/27.png8616105312#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/27.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/27.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/28.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/28.png
+s299697515.145492
+e299697515.193012
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/28.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/28.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/28.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/28.png299697515#299697515#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/28.png8615897184#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/28.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/28.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/29.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/29.png
+s299697515.158570
+e299697515.205843
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/29.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/29.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/29.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/29.png299697515#299697515#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/29.png8615665792#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/29.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/29.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/30.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/30.png
+s299697515.193157
+e299697515.242185
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/30.png
+x../Monster-Gaurd-Design/AEP/RENDERS/bars/30.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/30.png ../Monster-Gaurd-Design/AEP/RENDERS/bars/30.png299697515#299697515#0(0"0(0#0#80"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/30.png8615485216#577"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/AEP/RENDERS/bars/30.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/30.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/alert.png ../Monster-Gaurd-Design/png/alert.png
+s299697515.613498
+e299697515.917109
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/alert.png
+x../Monster-Gaurd-Design/png/alert.png
+lSLF07#2@94"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/alert.png ../Monster-Gaurd-Design/png/alert.png299697515#299697515#0(0"0(0#0#70"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/alert.png8613879136#570"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/alert.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/alert.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/bg.png ../Monster-Gaurd-Design/png/bg.png
+s299697513.371673
+e299697515.050855
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/bg.png
+x../Monster-Gaurd-Design/png/bg.png
+lSLF07#2@88"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/bg.png ../Monster-Gaurd-Design/png/bg.png299697513#299697515#0(0"0(0#0#67"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/bg.png8615857120#564"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/bg.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/bg.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/btn_OFF.png ../Monster-Gaurd-Design/png/btn_OFF.png
+s299697515.673199
+e299697515.727361
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/btn_OFF.png
+x../Monster-Gaurd-Design/png/btn_OFF.png
+lSLF07#2@98"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/btn_OFF.png ../Monster-Gaurd-Design/png/btn_OFF.png299697515#299697515#0(0"0(0#0#72"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/btn_OFF.png8613607488#574"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/btn_OFF.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/btn_OFF.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/btn_ON.png ../Monster-Gaurd-Design/png/btn_ON.png
+s299697515.553937
+e299697515.613418
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/btn_ON.png
+x../Monster-Gaurd-Design/png/btn_ON.png
+lSLF07#2@96"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/btn_ON.png ../Monster-Gaurd-Design/png/btn_ON.png299697515#299697515#0(0"0(0#0#71"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/btn_ON.png8614134816#572"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/btn_ON.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/btn_ON.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-1.png ../Monster-Gaurd-Design/png/pimwheel-1.png
+s299697515.205928
+e299697515.377900
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-1.png
+x../Monster-Gaurd-Design/png/pimwheel-1.png
+lSLF07#2@104"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/pimwheel-1.png ../Monster-Gaurd-Design/png/pimwheel-1.png299697515#299697515#0(0"0(0#0#75"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/pimwheel-1.png8615351744#580"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/pimwheel-1.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-1.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-2.png ../Monster-Gaurd-Design/png/pimwheel-2.png
+s299697515.242264
+e299697515.328362
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-2.png
+x../Monster-Gaurd-Design/png/pimwheel-2.png
+lSLF07#2@104"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/pimwheel-2.png ../Monster-Gaurd-Design/png/pimwheel-2.png299697515#299697515#0(0"0(0#0#75"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/pimwheel-2.png8615230400#580"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/pimwheel-2.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-2.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-3.png ../Monster-Gaurd-Design/png/pimwheel-3.png
+s299697515.328440
+e299697515.485256
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-3.png
+x../Monster-Gaurd-Design/png/pimwheel-3.png
+lSLF07#2@104"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/pimwheel-3.png ../Monster-Gaurd-Design/png/pimwheel-3.png299697515#299697515#0(0"0(0#0#75"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/pimwheel-3.png8614873408#580"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/pimwheel-3.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-3.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-4.png ../Monster-Gaurd-Design/png/pimwheel-4.png
+s299697515.378114
+e299697515.553856
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-4.png
+x../Monster-Gaurd-Design/png/pimwheel-4.png
+lSLF07#2@104"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/pimwheel-4.png ../Monster-Gaurd-Design/png/pimwheel-4.png299697515#299697515#0(0"0(0#0#75"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/pimwheel-4.png8614685184#580"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/pimwheel-4.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-4.png0#
+
+CCopyPNGFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-5.png ../Monster-Gaurd-Design/png/pimwheel-5.png
+s299697515.485336
+e299697515.673124
+r1
+xCopyPNGFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-5.png
+x../Monster-Gaurd-Design/png/pimwheel-5.png
+lSLF07#2@104"CopyPNGFile build/Debug-iphoneos/SentryAPP.app/pimwheel-5.png ../Monster-Gaurd-Design/png/pimwheel-5.png299697515#299697515#0(0"0(0#0#75"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/pimwheel-5.png8614487168#580"    cd /Users/michael/Desktop/SentryAPP    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/pimwheel-5.png /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/pimwheel-5.png0#
+
+CCpResource build/Debug-iphoneos/SentryAPP.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+s299697512.937345
+e299697512.965720
+r1
+xCpResource
+xbuild/Debug-iphoneos/SentryAPP.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist299697512#299697512#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist8307809061684012032#470"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app0#
+
+CCpResource build/Debug-iphoneos/SentryAPP.app/alarm_v1.aif "../Sentry SFX/BOUNCES/alarm_v1.aif"
+s299697515.728279
+e299697515.803167
+r1
+xCpResource
+xbuild/Debug-iphoneos/SentryAPP.app/alarm_v1.aif
+x../Sentry SFX/BOUNCES/alarm_v1.aif
+lSLF07#2@39"Copy ../Sentry SFX/BOUNCES/alarm_v1.aif299697515#299697515#0(0"0(0#0#67"/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/alarm_v1.aif8613229216#450"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/alarm_v1.aif" /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app0#
+
+CCpResource build/Debug-iphoneos/SentryAPP.app/fifth.aif "../Sentry SFX/BOUNCES/SFX Splits/fifth.aif"
+s299697515.728899
+e299697515.810164
+r1
+xCpResource
+xbuild/Debug-iphoneos/SentryAPP.app/fifth.aif
+x../Sentry SFX/BOUNCES/SFX Splits/fifth.aif
+lSLF07#2@47"Copy ../Sentry SFX/BOUNCES/SFX Splits/fifth.aif299697515#299697515#0(0"0(0#0#75"/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/SFX Splits/fifth.aif8613090080#458"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/SFX Splits/fifth.aif" /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app0#
+
+CCpResource build/Debug-iphoneos/SentryAPP.app/glass.aif "../Sentry SFX/BOUNCES/SFX Splits/glass.aif"
+s299697515.732338
+e299697515.796020
+r1
+xCpResource
+xbuild/Debug-iphoneos/SentryAPP.app/glass.aif
+x../Sentry SFX/BOUNCES/SFX Splits/glass.aif
+lSLF07#2@47"Copy ../Sentry SFX/BOUNCES/SFX Splits/glass.aif299697515#299697515#0(0"0(0#0#75"/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/SFX Splits/glass.aif8608340992#458"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/SFX Splits/glass.aif" /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app0#
+
+CCpResource build/Debug-iphoneos/SentryAPP.app/ping.aif "../Sentry SFX/BOUNCES/SFX Splits/ping.aif"
+s299697515.737728
+e299697515.799166
+r1
+xCpResource
+xbuild/Debug-iphoneos/SentryAPP.app/ping.aif
+x../Sentry SFX/BOUNCES/SFX Splits/ping.aif
+lSLF07#2@46"Copy ../Sentry SFX/BOUNCES/SFX Splits/ping.aif299697515#299697515#0(0"0(0#0#74"/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/SFX Splits/ping.aif8607902752#457"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/SFX Splits/ping.aif" /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app0#
+
+CCpResource build/Debug-iphoneos/SentryAPP.app/pulsing.aif "../Sentry SFX/BOUNCES/SFX Splits/pulsing.aif"
+s299697515.742104
+e299697515.811085
+r1
+xCpResource
+xbuild/Debug-iphoneos/SentryAPP.app/pulsing.aif
+x../Sentry SFX/BOUNCES/SFX Splits/pulsing.aif
+lSLF07#2@49"Copy ../Sentry SFX/BOUNCES/SFX Splits/pulsing.aif299697515#299697515#0(0"0(0#0#77"/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/SFX Splits/pulsing.aif8605452128#460"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/SFX Splits/pulsing.aif" /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app0#
+
+CCpResource build/Debug-iphoneos/SentryAPP.app/sentry_on_v1.aif "../Sentry SFX/BOUNCES/sentry_on_v1.aif"
+s299697515.727446
+e299697515.804217
+r1
+xCpResource
+xbuild/Debug-iphoneos/SentryAPP.app/sentry_on_v1.aif
+x../Sentry SFX/BOUNCES/sentry_on_v1.aif
+lSLF07#2@43"Copy ../Sentry SFX/BOUNCES/sentry_on_v1.aif299697515#299697515#0(0"0(0#0#71"/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/sentry_on_v1.aif8613359936#454"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/sentry_on_v1.aif" /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app0#
+
+CCpResource build/Debug-iphoneos/SentryAPP.app/sentry_on_v2.aif "../Sentry SFX/BOUNCES/sentry_on_v2.aif"
+s299697515.746638
+e299697515.811194
+r1
+xCpResource
+xbuild/Debug-iphoneos/SentryAPP.app/sentry_on_v2.aif
+x../Sentry SFX/BOUNCES/sentry_on_v2.aif
+lSLF07#2@43"Copy ../Sentry SFX/BOUNCES/sentry_on_v2.aif299697515#299697515#0(0"0(0#0#71"/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/sentry_on_v2.aif8604860384#454"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/sentry_on_v2.aif" /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app0#
+
+CCreateUniversalBinary /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/SentryAPP normal "armv6 armv7"
+s299697517.644176
+e299697517.694841
+r1
+xCreateUniversalBinary
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/SentryAPP
+xnormal
+xarmv6 armv7
+lSLF07#2@87"CreateUniversalBinary build/Debug-iphoneos/SentryAPP.app/SentryAPP normal "armv6 armv7"299697517#299697517#0(0"0(0#0#44"/Users/michael/Desktop/SentryAPP/armv6 armv78617508832#510"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv6/SentryAPP /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv7/SentryAPP -output /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/SentryAPP0#
+
+CGenerateDSYMFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app.dSYM /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/SentryAPP
+s299697517.695026
+e299697517.728184
+r1
+xGenerateDSYMFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app.dSYM
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/SentryAPP
+lSLF07#2@101"GenerateDSYMFile build/Debug-iphoneos/SentryAPP.app.dSYM build/Debug-iphoneos/SentryAPP.app/SentryAPP299697517#299697517#0(0"0(0#0#77"/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/SentryAPP8616688320#350"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/SentryAPP -o /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app.dSYM0#
+
+CLd /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv6/SentryAPP normal armv6
+s299697516.489663
+e299697517.251689
+r1
+xLd
+x/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv6/SentryAPP
+xnormal
+xarmv6
+lSLF07#2@121"Link /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv6/SentryAPP299697516#299697517#0(0"0(0#0#0"8616315744#887"    cd /Users/michael/Desktop/SentryAPP    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos -F/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos -filelist /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv6/SentryAPP.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework AVFoundation -o /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv6/SentryAPP0#
+
+CLd /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv7/SentryAPP normal armv7
+s299697517.464182
+e299697517.644075
+r1
+xLd
+x/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv7/SentryAPP
+xnormal
+xarmv7
+lSLF07#2@121"Link /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv7/SentryAPP299697517#299697517#0(0"0(0#0#0"8617071744#887"    cd /Users/michael/Desktop/SentryAPP    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos -F/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos -filelist /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv7/SentryAPP.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework AVFoundation -o /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/Objects-normal/armv7/SentryAPP0#
+
+CProcessInfoPlistFile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/Info.plist CGImage_Test-Info.plist
+s299697512.938165
+e299697512.942627
+r1
+xProcessInfoPlistFile
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/Info.plist
+xCGImage_Test-Info.plist
+lSLF07#2@31"Process CGImage_Test-Info.plist299697512#299697512#0(0"0(0#0#56"/Users/michael/Desktop/SentryAPP/CGImage_Test-Info.plist8617613984#549"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CGImage_Test-Info.plist -genpkginfo /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/ResourceRules.plist -o /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/Info.plist0#
+
+CProcessPCH /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-dmjvjsxsbtqyvkdeudssmnevnzir/CGImage_Test_Prefix.pch.gch CGImage_Test_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-gbivlvnobgxlpuahbfxbhxdpxmsk/CGImage_Test_Prefix.pch.gch CGImage_Test_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/michael/Library/MobileDevice/Provisioning Profiles/5A3AD02A-0D84-4440-AD78-E82D5FFA958F.mobileprovision" /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/embedded.mobileprovision
+s299697517.728273
+e299697517.743792
+r1
+xProcessProductPackaging
+x/Users/michael/Library/MobileDevice/Provisioning Profiles/5A3AD02A-0D84-4440-AD78-E82D5FFA958F.mobileprovision
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/embedded.mobileprovision
+lSLF07#2@196"ProcessProductPackaging "/Users/michael/Library/MobileDevice/Provisioning Profiles/5A3AD02A-0D84-4440-AD78-E82D5FFA958F.mobileprovision" build/Debug-iphoneos/SentryAPP.app/embedded.mobileprovision299697517#299697517#0(0"0(0#0#92"/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/embedded.mobileprovision8615583072#415"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/michael/Library/MobileDevice/Provisioning Profiles/5A3AD02A-0D84-4440-AD78-E82D5FFA958F.mobileprovision" -o /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP.xcent
+s299697517.748243
+e299697517.757323
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+x/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP.xcent
+lSLF07#2@181"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP.xcent299697517#299697517#0(0"0(0#0#101"/Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP.xcent8614634176#426"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/michael/Desktop/SentryAPP/build/SentryAPP.build/Debug-iphoneos/SentryAPP.build/SentryAPP.xcent0#
+
+CTouch /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app
+s299697517.743841
+e299697517.748122
+r1
+xTouch
+x/Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app
+lSLF07#2@73"Touch /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app299697517#299697517#0(0"0(0#0#0"8616700800#254"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/michael/Desktop/SentryAPP/build/Debug-iphoneos/SentryAPP.app0#
+

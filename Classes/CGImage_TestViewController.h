@@ -10,6 +10,7 @@
 #import <QuartzCore/CAAnimation.h>
 #import <AVFoundation/AVFoundation.h>
 #import <CoreAudio/CoreAudioTypes.h>
+#import <OpenAL/al.h>
 
 @interface CGImage_TestViewController : UIViewController {
 	IBOutlet UIImageView *pinwheel_1;
@@ -33,6 +34,7 @@
 	IBOutlet UIImageView *barView;
 	
 	AVAudioPlayer *activePlayer;
+	AVAudioPlayer *alarmPlayer;
 }
 
 @property(nonatomic, retain) IBOutlet UIImageView *alertView;
@@ -47,7 +49,6 @@
 - (void) stopBars;
 - (void) showAlertView;
 - (void) hideAlertView;
-- (void) playActive;
 - (void) pauseActive;
 
 @end

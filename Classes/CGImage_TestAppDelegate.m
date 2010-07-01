@@ -24,7 +24,6 @@
 	return YES;
 }
 
-
 - (void)dealloc {
     [viewController release];
     [window release];

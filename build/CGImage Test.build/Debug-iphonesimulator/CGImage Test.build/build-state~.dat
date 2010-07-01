@@ -1,58 +1,8 @@
 TCGImage Test
 v7
 r0
-t299207179.450699
+t299622284.729669
 cCheck dependencies
-cProcessInfoPlistFile "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/Info.plist" CGImage_Test-Info.plist
-cCompileXIB /Users/michael/Desktop/SentryAPP/MainWindow.xib
-cCompileXIB /Users/michael/Desktop/SentryAPP/CGImage_TestViewController.xib
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/bg.png" ../Monster-Gaurd-Design/png/bg.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/00.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/00.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/01.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/01.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/02.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/02.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/03.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/03.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/04.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/04.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/05.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/05.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/06.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/06.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/07.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/07.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/08.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/08.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/09.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/09.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/10.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/10.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/11.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/11.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/12.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/12.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/13.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/13.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/14.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/14.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/15.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/15.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/16.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/16.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/17.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/17.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/18.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/18.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/19.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/19.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/20.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/20.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/21.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/21.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/22.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/22.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/23.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/23.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/24.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/24.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/25.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/25.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/26.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/26.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/27.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/27.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/28.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/28.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/29.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/29.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/30.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/30.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/pimwheel-1.png" ../Monster-Gaurd-Design/png/pimwheel-1.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/pimwheel-2.png" ../Monster-Gaurd-Design/png/pimwheel-2.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/pimwheel-3.png" ../Monster-Gaurd-Design/png/pimwheel-3.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/pimwheel-4.png" ../Monster-Gaurd-Design/png/pimwheel-4.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/pimwheel-5.png" ../Monster-Gaurd-Design/png/pimwheel-5.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/btn_ON.png" ../Monster-Gaurd-Design/png/btn_ON.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/alert.png" ../Monster-Gaurd-Design/png/alert.png
-cCpResource "build/Debug-iphonesimulator/CGImage Test.app/btn_OFF.png" ../Monster-Gaurd-Design/png/btn_OFF.png
-cProcessPCH /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-brmngxqcprnwiybrbmfeboqhplmj/CGImage_Test_Prefix.pch.gch CGImage_Test_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/main.o" /Users/michael/Desktop/SentryAPP/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/CGImage_TestAppDelegate.o" /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/CGImage_TestViewController.o" /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/CGImage Test" normal i386
-cGenerateDSYMFile "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app.dSYM" "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/CGImage Test"
-cTouch "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app"
 
 N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
 c000000004B69B45C00000000000000EE
@@ -118,6 +68,61 @@ N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1
 c000000004B2B62B500000000016721E0
 t1261134517
 s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C2AD4A00000000000000132
+t1277875360
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004C01F5AE00000000000C05A0
+t1275196846
+s787872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004C01F5AA000000000000065C
+t1275196842
+s1628
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreAudio.framework/Headers/CoreAudioTypes.h
+c000000004BFDFDD3000000000001032E
+t1274936787
+s66350
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CAAnimation.h
+c000000004C04586C00000000000028F1
+t1275353196
+s10481
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C0458E90000000000151D30
+t1275353321
+s1383728
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
 
 N/Users/michael/Desktop/CGImage Test/../Radar Test Images/Default.png
 c000000004C223EB6000000000000118C
@@ -926,14 +931,14 @@ t1277407995
 s94413
 
 N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/btn_OFF.png
-c000000004C2425D8000000000000316E
-t1277437400
-s12654
+c000000004C2B9E1400000000000022DC
+t1277926932
+s8924
 
 N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/btn_ON.png
-c000000004C241AE900000000000038A7
-t1277434601
-s14503
+c000000004C2B9D630000000000002FFB
+t1277926755
+s12283
 
 N/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/pimwheel-1.png
 c000000004C241D9D000000000000A87C
@@ -995,10 +1000,25 @@ c000000004C222B33000000000000582E
 t1277307699
 s22574
 
+N/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/alarm_v1.aif
+c000000004C291D77000000000007300C
+t1277762935
+s471052
+
+N/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/sentry_on_v1.aif
+c000000004C28EB82000000000007300C
+t1277750146
+s471052
+
+N/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/sentry_on_v1.mp3
+c000000004C28ECFC000000000001096B
+t1277750524
+s67947
+
 N/Users/michael/Desktop/SentryAPP/CGImage_TestViewController.xib
-c000000004C242C3A0000000000007AD4
-t1277439034
-s31444
+c000000004C28E2F40000000000007ADD
+t1277747956
+s31453
 
 N/Users/michael/Desktop/SentryAPP/CGImage_Test_Prefix.pch
 c000000004C222B6500000000000000C1
@@ -1021,19 +1041,33 @@ i"CGImage_TestAppDelegate.h"
 i"CGImage_TestViewController.h"
 
 N/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.h
-c000000004C241E2500000000000003F4
-t1277435429
-s1012
+c000000004C2920530000000000000562
+t1277763667
+s1378
 i<UIKit/UIKit.h>
 i<QuartzCore/CAAnimation.h>
 i<AVFoundation/AVFoundation.h>
 i<CoreAudio/CoreAudioTypes.h>
 
 N/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m
-c000000004C25527D00000000000012BC
-t1277514365
-s4796
+c000000004C29204E0000000000001C3A
+t1277763662
+s7226
 i"CGImage_TestViewController.h"
+
+N/Users/michael/Desktop/SentryAPP/Classes/animation.h
+c000000004C290D80000000000000015D
+t1277758848
+s349
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i<QuartzCore/CAAnimation.h>
+
+N/Users/michael/Desktop/SentryAPP/Classes/animation.m
+c000000004C290DBD00000000000000CE
+t1277758909
+s206
+i"animation.h"
 
 N/Users/michael/Desktop/SentryAPP/MainWindow.xib
 c000000004C222B650000000000002683
@@ -1041,117 +1075,121 @@ t1277307749
 s9859
 
 N/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/CGImage Test.LinkFileList
-c000000004C25528A00000000000001A3
-t1277514378
-s419
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/CGImage_TestAppDelegate.o
-t1277514379
-s39792
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/CGImage_TestViewController.o
-t1277514379
-s51000
+t2
+s0
+
+N/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/animation.o
+t1277758909
+s5072
 
 N/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/main.o
-t1277514379
-s5936
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app
-t1277514379
-s1598
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app.dSYM
-t1277514379
-s102
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/00.png
-t1277514378
-s4679
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/01.png
-t1277514378
-s4927
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/02.png
-t1277514378
-s4582
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/03.png
-t1277514378
-s4667
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/04.png
-t1277514378
-s4753
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/05.png
-t1277514378
-s4546
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/06.png
-t1277514378
-s4344
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/07.png
-t1277514378
-s3728
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/08.png
-t1277514378
-s3355
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/09.png
-t1277514378
-s3458
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/10.png
-t1277514378
-s3394
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/11.png
-t1277514378
-s4363
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/12.png
-t1277514378
-s4164
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/13.png
-t1277514378
-s4027
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/14.png
-t1277514378
-s4219
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/15.png
-t1277514378
-s4354
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/16.png
-t1277514378
-s4440
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/17.png
-t1277514378
-s4270
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/18.png
-t1277514378
-s4055
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/19.png
-t1277514378
-s4425
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/20.png
-t1277514378
-s4621
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/21.png
-t1277514378
-s4450
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/210.png
 t1277432527
@@ -1194,8 +1232,8 @@ t1277432528
 s582
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/22.png
-t1277514378
-s4600
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/220.png
 t1277432528
@@ -1238,8 +1276,8 @@ t1277432528
 s353
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/23.png
-t1277514378
-s4082
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/230.png
 t1277432528
@@ -1282,36 +1320,36 @@ t1277432528
 s574
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/24.png
-t1277514378
-s4068
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/240.png
 t1277432528
 s447
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/25.png
-t1277514378
-s3889
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/26.png
-t1277514378
-s4280
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/27.png
-t1277514378
-s4164
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/28.png
-t1277514378
-s3847
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/29.png
-t1277514378
-s4008
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/30.png
-t1277514378
-s3846
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/450.png
 t1277432215
@@ -1438,48 +1476,52 @@ t1277432216
 s449
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/CGImage Test
-t1277514379
-s26656
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/CGImage_TestViewController.nib
-t1277514378
-s4084
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/Default.png
 t1277436816
 s4492
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/Info.plist
-t1277514378
-s640
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/MainWindow.nib
-t1277514378
-s1520
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/PkgInfo
-t1277514378
-s8
+t2
+s0
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/alarm_v1.aif
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/alert.png
-t1277514378
-s51468
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/bg.png
-t1277514378
-s94413
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/black.png
 t1277308117
 s2562
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/btn_OFF.png
-t1277514378
-s12654
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/btn_ON.png
-t1277514378
-s14503
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/color_back.png
 t1277308117
@@ -1490,24 +1532,24 @@ t1277308117
 s2636
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/pimwheel-1.png
-t1277514378
-s43132
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/pimwheel-2.png
-t1277514378
-s14095
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/pimwheel-3.png
-t1277514378
-s35224
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/pimwheel-4.png
-t1277514378
-s59069
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/pimwheel-5.png
-t1277514378
-s52872
+t2
+s0
 
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/pinwheel_1.png
 t1277308117
@@ -1516,6 +1558,14 @@ s22147
 N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/pinwheel_2.png
 t1277308117
 s22574
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/sentry_on_v1.aif
+t2
+s0
+
+N/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/sentry_on_v1.mp3
+t1277750893
+s67947
 
 N/Users/michael/Desktop/SentryAPP/main.m
 c000000004C222B650000000000000170
@@ -1526,6 +1576,10 @@ i<UIKit/UIKit.h>
 N/var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-brmngxqcprnwiybrbmfeboqhplmj/CGImage_Test_Prefix.pch.gch
 t1277514379
 s13026768
+
+N/var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-dljfpxjlrmoskkfjwrbrocqcllhh/CGImage_Test_Prefix.pch.gch
+t2
+s0
 
 N/var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-goqsfomvrtlgecakfwtxhdjrkgnw/CGImage_Test_Prefix.pch.gch
 t1277308118
@@ -1538,7 +1592,7 @@ s948
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies299207178#299207178#0(0"0(0#1#0"4300911832#0"0#
+lSLF07#2@18"Check dependencies299622284#299622284#0(0"0(0#1#0"8608428640#0"0#
 
 CCompileC "build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/CGImage_TestAppDelegate.o" "/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s299014173.619477
@@ -1554,8 +1608,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@77"Compile /Users/michael/Desktop/CGImage Test/Classes/CGImage_TestAppDelegate.m299014173#299014173#0(0"0(0#0#69"/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestAppDelegate.m4300911832#1994"    cd "/Users/michael/Desktop/CGImage Test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-generated-files.hmap" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-own-target-headers.hmap" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-all-target-headers.hmap" -iquote "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-project-headers.hmap" "-F/Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator" "-I/Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator/include" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/DerivedSources/i386" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/DerivedSources" -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-goqsfomvrtlgecakfwtxhdjrkgnw/CGImage_Test_Prefix.pch -c "/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestAppDelegate.m" -o "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/CGImage_TestAppDelegate.o"0#
 
 CCompileC "build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/CGImage_TestAppDelegate.o" /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s299207179.282899
-e299207179.357222
+s299617328.197732
+e299617328.365252
 r1
 xCompileC
 xbuild/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/CGImage_TestAppDelegate.o
@@ -1564,7 +1618,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@74"Compile /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m299207179#299207179#0(0"0(0#0#66"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m4300911832#1953"    cd /Users/michael/Desktop/SentryAPP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-generated-files.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-own-target-headers.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-all-target-headers.hmap" -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-project-headers.hmap" -F/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator -I/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/include "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/DerivedSources/i386" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/DerivedSources" -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-brmngxqcprnwiybrbmfeboqhplmj/CGImage_Test_Prefix.pch -c /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m -o "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/CGImage_TestAppDelegate.o"0#
+lSLF07#2@74"Compile /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m299617328#299617328#0(0"0(0#0#66"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m8607900640#1995"    cd /Users/michael/Desktop/SentryAPP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-generated-files.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-own-target-headers.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-all-target-headers.hmap" -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-project-headers.hmap" -F/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator -I/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/include "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/DerivedSources/i386" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/DerivedSources" -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-dljfpxjlrmoskkfjwrbrocqcllhh/CGImage_Test_Prefix.pch -c /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestAppDelegate.m -o "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/CGImage_TestAppDelegate.o"0#
 
 CCompileC "build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/CGImage_TestViewController.o" "/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s299015878.023460
@@ -1590,8 +1644,8 @@ o/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:57: wa
 lSLF07#2@80"Compile /Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m299015878#299015878#0(1419"/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m: In function '-[CGImage_TestViewController toggleAnimation:]':/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:22: warning: 'CGImage_TestViewController' may not respond to '-stopRotation:'/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:22: warning: (Messages without a matching method signature/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:22: warning: will be assumed to return 'id' and accept/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:22: warning: '...' as arguments.)/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:23: warning: 'CGImage_TestViewController' may not respond to '-stopRotation:'/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:27: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:'/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:28: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:'/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m: In function '-[CGImage_TestViewController levelTimerCallback:]':/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m:57: warning: 'CGImage_TestViewController' may not respond to '-showAlertView'6(22@64"'CGImage_TestViewController' may not respond to '-stopRotation:'299015878#136#151#0(6@72"/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m299015588#22#0#22#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)299015878#287#132#0(6@72"/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m299015588#22#0#22#0#0"0(22@64"'CGImage_TestViewController' may not respond to '-stopRotation:'299015878#654#151#0(6@72"/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m299015588#23#0#23#0#26"'*' may not respond to '*'0(22@75"'CGImage_TestViewController' may not respond to '-startRotation:direction:'299015878#805#162#0(6@72"/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m299015588#27#0#27#0#26"'*' may not respond to '*'0(22@75"'CGImage_TestViewController' may not respond to '-startRotation:direction:'299015878#967#162#0(6@72"/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m299015588#28#0#28#0#26"'*' may not respond to '*'0(22@64"'CGImage_TestViewController' may not respond to '-showAlertView'299015878#1268#151#0(6@72"/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m299015588#57#0#57#0#26"'*' may not respond to '*'0(0#0#72"/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m4300911832#2000"    cd "/Users/michael/Desktop/CGImage Test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-generated-files.hmap" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-own-target-headers.hmap" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-all-target-headers.hmap" -iquote "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-project-headers.hmap" "-F/Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator" "-I/Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator/include" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/DerivedSources/i386" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/DerivedSources" -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-goqsfomvrtlgecakfwtxhdjrkgnw/CGImage_Test_Prefix.pch -c "/Users/michael/Desktop/CGImage Test/Classes/CGImage_TestViewController.m" -o "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/CGImage_TestViewController.o"0#
 
 CCompileC "build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/CGImage_TestViewController.o" /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s299207179.326394
-e299207179.407872
+s299617328.360874
+e299617328.475832
 r1
 xCompileC
 xbuild/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/CGImage_TestViewController.o
@@ -1600,28 +1654,25 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m: In function '-[CGImage_TestViewController toggleAnimation:]':
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:22: warning: 'CGImage_TestViewController' may not respond to '-stopRotation:'
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:22: warning: (Messages without a matching method signature
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:22: warning: will be assumed to return 'id' and accept
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:22: warning: '...' as arguments.)
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:23: warning: 'CGImage_TestViewController' may not respond to '-stopRotation:'
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:24: warning: 'CGImage_TestViewController' may not respond to '-stopRotation:'
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:25: warning: 'CGImage_TestViewController' may not respond to '-stopRotation:'
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:26: warning: 'CGImage_TestViewController' may not respond to '-stopRotation:'
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:27: warning: 'CGImage_TestViewController' may not respond to '-stopBars'
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:32: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:33: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:34: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:35: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:36: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:37: warning: 'CGImage_TestViewController' may not respond to '-startBars'
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m: In function '-[CGImage_TestViewController levelTimerCallback:]':
-o/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:90: warning: 'CGImage_TestViewController' may not respond to '-showAlertView'
-lSLF07#2@77"Compile /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207179#299207179#0(2642"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m: In function '-[CGImage_TestViewController toggleAnimation:]':/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:22: warning: 'CGImage_TestViewController' may not respond to '-stopRotation:'/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:22: warning: (Messages without a matching method signature/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:22: warning: will be assumed to return 'id' and accept/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:22: warning: '...' as arguments.)/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:23: warning: 'CGImage_TestViewController' may not respond to '-stopRotation:'/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:24: warning: 'CGImage_TestViewController' may not respond to '-stopRotation:'/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:25: warning: 'CGImage_TestViewController' may not respond to '-stopRotation:'/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:26: warning: 'CGImage_TestViewController' may not respond to '-stopRotation:'/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:27: warning: 'CGImage_TestViewController' may not respond to '-stopBars'/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:32: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:33: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:34: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:35: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:36: warning: 'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:37: warning: 'CGImage_TestViewController' may not respond to '-startBars'/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m: In function '-[CGImage_TestViewController levelTimerCallback:]':/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m:90: warning: 'CGImage_TestViewController' may not respond to '-showAlertView'14(22@64"'CGImage_TestViewController' may not respond to '-stopRotation:'299207179#133#148#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207165#22#0#22#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)299207179#281#129#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207165#22#0#22#0#0"0(22@64"'CGImage_TestViewController' may not respond to '-stopRotation:'299207179#639#148#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207165#23#0#23#0#26"'*' may not respond to '*'0(22@64"'CGImage_TestViewController' may not respond to '-stopRotation:'299207179#787#148#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207165#24#0#24#0#26"'*' may not respond to '*'0(22@64"'CGImage_TestViewController' may not respond to '-stopRotation:'299207179#935#148#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207165#25#0#25#0#26"'*' may not respond to '*'0(22@64"'CGImage_TestViewController' may not respond to '-stopRotation:'299207179#1083#148#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207165#26#0#26#0#26"'*' may not respond to '*'0(22@59"'CGImage_TestViewController' may not respond to '-stopBars'299207179#1231#143#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207165#27#0#27#0#26"'*' may not respond to '*'0(22@84"'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'299207179#1374#168#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207165#32#0#32#0#26"'*' may not respond to '*'0(22@84"'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'299207179#1542#168#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207165#33#0#33#0#26"'*' may not respond to '*'0(22@84"'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'299207179#1710#168#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207165#34#0#34#0#26"'*' may not respond to '*'0(22@84"'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'299207179#1878#168#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207165#35#0#35#0#26"'*' may not respond to '*'0(22@84"'CGImage_TestViewController' may not respond to '-startRotation:direction:duration:'299207179#2046#168#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207165#36#0#36#0#26"'*' may not respond to '*'0(22@60"'CGImage_TestViewController' may not respond to '-startBars'299207179#2214#144#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207165#37#0#37#0#26"'*' may not respond to '*'0(22@64"'CGImage_TestViewController' may not respond to '-showAlertView'299207179#2494#148#0(6@69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299207165#90#0#90#0#26"'*' may not respond to '*'0(0#0#69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m4300911832#1959"    cd /Users/michael/Desktop/SentryAPP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-generated-files.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-own-target-headers.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-all-target-headers.hmap" -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-project-headers.hmap" -F/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator -I/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/include "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/DerivedSources/i386" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/DerivedSources" -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-brmngxqcprnwiybrbmfeboqhplmj/CGImage_Test_Prefix.pch -c /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m -o "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/CGImage_TestViewController.o"0#
+lSLF07#2@77"Compile /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m299617328#299617328#0(0"0(0#0#69"/Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m8605646816#2001"    cd /Users/michael/Desktop/SentryAPP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-generated-files.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-own-target-headers.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-all-target-headers.hmap" -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-project-headers.hmap" -F/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator -I/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/include "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/DerivedSources/i386" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/DerivedSources" -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-dljfpxjlrmoskkfjwrbrocqcllhh/CGImage_Test_Prefix.pch -c /Users/michael/Desktop/SentryAPP/Classes/CGImage_TestViewController.m -o "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/CGImage_TestViewController.o"0#
 
 CCompileC "build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/LogicTests.o" "/Users/michael/Desktop/CGImage Test/LogicTests.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
+
+CCompileC "build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/animation.o" /Users/michael/Desktop/SentryAPP/Classes/animation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299451709.324868
+e299451709.557858
+r1
+xCompileC
+xbuild/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/animation.o
+x/Users/michael/Desktop/SentryAPP/Classes/animation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/michael/Desktop/SentryAPP/Classes/animation.m:20: warning: property 'toggleButton' requires method '-toggleButton' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/michael/Desktop/SentryAPP/Classes/animation.m:20: warning: property 'toggleButton' requires the method 'setToggleButton:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@60"Compile /Users/michael/Desktop/SentryAPP/Classes/animation.m299451709#299451709#0(405"/Users/michael/Desktop/SentryAPP/Classes/animation.m:20: warning: property 'toggleButton' requires method '-toggleButton' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/michael/Desktop/SentryAPP/Classes/animation.m:20: warning: property 'toggleButton' requires the method 'setToggleButton:' to be defined - use @synthesize, @dynamic or provide a method implementation2(22@132"Property 'toggleButton' requires method '-toggleButton' to be defined - use @synthesize, @dynamic or provide a method implementation299451709#0#199#0(6@52"/Users/michael/Desktop/SentryAPP/Classes/animation.m299451709#20#0#20#0#0"0(22@139"Property 'toggleButton' requires the method 'setToggleButton:' to be defined - use @synthesize, @dynamic or provide a method implementation299451709#199#206#0(6@52"/Users/michael/Desktop/SentryAPP/Classes/animation.m299451709#20#0#20#0#0"0(0#0#52"/Users/michael/Desktop/SentryAPP/Classes/animation.m4300911832#1925"    cd /Users/michael/Desktop/SentryAPP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-generated-files.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-own-target-headers.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-all-target-headers.hmap" -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-project-headers.hmap" -F/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator -I/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/include "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/DerivedSources/i386" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/DerivedSources" -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-brmngxqcprnwiybrbmfeboqhplmj/CGImage_Test_Prefix.pch -c /Users/michael/Desktop/SentryAPP/Classes/animation.m -o "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/animation.o"0#
 
 CCompileC "build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/main.o" "/Users/michael/Desktop/CGImage Test/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s299000918.629143
@@ -1637,8 +1688,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@50"Compile /Users/michael/Desktop/CGImage Test/main.m299000918#299000918#0(0"0(0#0#42"/Users/michael/Desktop/CGImage Test/main.m4300911832#1948"    cd "/Users/michael/Desktop/CGImage Test"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-generated-files.hmap" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-own-target-headers.hmap" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-all-target-headers.hmap" -iquote "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-project-headers.hmap" "-F/Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator" "-I/Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator/include" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/DerivedSources/i386" "-I/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/DerivedSources" -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-goqsfomvrtlgecakfwtxhdjrkgnw/CGImage_Test_Prefix.pch -c "/Users/michael/Desktop/CGImage Test/main.m" -o "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/main.o"0#
 
 CCompileC "build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/main.o" /Users/michael/Desktop/SentryAPP/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s299207179.281643
-e299207179.326301
+s299617328.196417
+e299617328.360784
 r1
 xCompileC
 xbuild/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/main.o
@@ -1647,7 +1698,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@47"Compile /Users/michael/Desktop/SentryAPP/main.m299207179#299207179#0(0"0(0#0#39"/Users/michael/Desktop/SentryAPP/main.m4300911832#1907"    cd /Users/michael/Desktop/SentryAPP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-generated-files.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-own-target-headers.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-all-target-headers.hmap" -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-project-headers.hmap" -F/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator -I/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/include "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/DerivedSources/i386" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/DerivedSources" -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-brmngxqcprnwiybrbmfeboqhplmj/CGImage_Test_Prefix.pch -c /Users/michael/Desktop/SentryAPP/main.m -o "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/main.o"0#
+lSLF07#2@47"Compile /Users/michael/Desktop/SentryAPP/main.m299617328#299617328#0(0"0(0#0#39"/Users/michael/Desktop/SentryAPP/main.m8603719072#1949"    cd /Users/michael/Desktop/SentryAPP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-generated-files.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-own-target-headers.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-all-target-headers.hmap" -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-project-headers.hmap" -F/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator -I/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/include "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/DerivedSources/i386" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/DerivedSources" -include /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-dljfpxjlrmoskkfjwrbrocqcllhh/CGImage_Test_Prefix.pch -c /Users/michael/Desktop/SentryAPP/main.m -o "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/main.o"0#
 
 CCompileXIB "/Users/michael/Desktop/CGImage Test/CGImage_TestViewController.xib"
 s299015455.842507
@@ -1667,20 +1718,22 @@ oCouldn't open shared capabilities memory GSCapabilities (No such file or direct
 lSLF07#2@25"CompileXIB MainWindow.xib299000917#299000917#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#50"/Users/michael/Desktop/CGImage Test/MainWindow.xib4300911832#484"    cd "/Users/michael/Desktop/CGImage Test"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator/CGImage Test.app/MainWindow.nib" "/Users/michael/Desktop/CGImage Test/MainWindow.xib"0#
 
 CCompileXIB /Users/michael/Desktop/SentryAPP/CGImage_TestViewController.xib
-s299207178.342866
-e299207178.745317
+s299617326.567183
+e299617327.281630
 r1
 xCompileXIB
 x/Users/michael/Desktop/SentryAPP/CGImage_TestViewController.xib
-lSLF07#2@41"CompileXIB CGImage_TestViewController.xib299207178#299207178#0(0"0(0#0#63"/Users/michael/Desktop/SentryAPP/CGImage_TestViewController.xib4300911832#503"    cd /Users/michael/Desktop/SentryAPP    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/CGImage_TestViewController.nib" /Users/michael/Desktop/SentryAPP/CGImage_TestViewController.xib0#
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@41"CompileXIB CGImage_TestViewController.xib299617326#299617327#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#63"/Users/michael/Desktop/SentryAPP/CGImage_TestViewController.xib8603982432#591"    cd /Users/michael/Desktop/SentryAPP    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/CGImage_TestViewController.nib" /Users/michael/Desktop/SentryAPP/CGImage_TestViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
 
 CCompileXIB /Users/michael/Desktop/SentryAPP/MainWindow.xib
-s299207178.342239
-e299207178.611133
+s299617326.565941
+e299617326.994085
 r1
 xCompileXIB
 x/Users/michael/Desktop/SentryAPP/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib299207178#299207178#0(0"0(0#0#47"/Users/michael/Desktop/SentryAPP/MainWindow.xib4300911832#471"    cd /Users/michael/Desktop/SentryAPP    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/MainWindow.nib" /Users/michael/Desktop/SentryAPP/MainWindow.xib0#
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib299617326#299617326#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#47"/Users/michael/Desktop/SentryAPP/MainWindow.xib8604426528#559"    cd /Users/michael/Desktop/SentryAPP    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/MainWindow.nib" /Users/michael/Desktop/SentryAPP/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
 
 CCpResource "build/Debug-iphonesimulator/CGImage Test.app/00.png" ../Monster-Gaurd-Design/AEP/RENDERS/bars/00.png
 s299207178.611932
@@ -2807,6 +2860,15 @@ xbuild/Debug-iphonesimulator/CGImage Test.app/Default.png
 x../Radar Test Images/Default.png
 lSLF07#2@37"Copy ../Radar Test Images/Default.png299129616#299129616#0(0"0(0#0#65"/Users/michael/Desktop/SentryAPP/../Radar Test Images/Default.png4300911832#467"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/michael/Desktop/SentryAPP/../Radar Test Images/Default.png" "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app"0#
 
+CCpResource "build/Debug-iphonesimulator/CGImage Test.app/alarm_v1.aif" "../Sentry SFX/BOUNCES/alarm_v1.aif"
+s299455954.740598
+e299455954.760939
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CGImage Test.app/alarm_v1.aif
+x../Sentry SFX/BOUNCES/alarm_v1.aif
+lSLF07#2@39"Copy ../Sentry SFX/BOUNCES/alarm_v1.aif299455954#299455954#0(0"0(0#0#67"/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/alarm_v1.aif4300911832#469"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/alarm_v1.aif" "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app"0#
+
 CCpResource "build/Debug-iphonesimulator/CGImage Test.app/alert.png" "../Radar Test Images/alert.png"
 s299011514.547271
 e299011514.578155
@@ -2844,22 +2906,22 @@ x../Radar Test Images/black.png
 lSLF07#2@35"Copy ../Radar Test Images/black.png299000917#299000917#0(0"0(0#0#66"/Users/michael/Desktop/CGImage Test/../Radar Test Images/black.png4300911832#476"    cd "/Users/michael/Desktop/CGImage Test"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/michael/Desktop/CGImage Test/../Radar Test Images/black.png" "/Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator/CGImage Test.app"0#
 
 CCpResource "build/Debug-iphonesimulator/CGImage Test.app/btn_OFF.png" ../Monster-Gaurd-Design/png/btn_OFF.png
-s299207178.732032
-e299207178.751065
+s299619746.566804
+e299619746.579557
 r1
 xCpResource
 xbuild/Debug-iphonesimulator/CGImage Test.app/btn_OFF.png
 x../Monster-Gaurd-Design/png/btn_OFF.png
-lSLF07#2@44"Copy ../Monster-Gaurd-Design/png/btn_OFF.png299207178#299207178#0(0"0(0#0#72"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/btn_OFF.png4300911832#472"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/btn_OFF.png "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app"0#
+lSLF07#2@44"Copy ../Monster-Gaurd-Design/png/btn_OFF.png299619746#299619746#0(0"0(0#0#72"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/btn_OFF.png8604591168#472"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/btn_OFF.png "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app"0#
 
 CCpResource "build/Debug-iphonesimulator/CGImage Test.app/btn_ON.png" ../Monster-Gaurd-Design/png/btn_ON.png
-s299207178.725239
-e299207178.745429
+s299619746.565160
+e299619746.572889
 r1
 xCpResource
 xbuild/Debug-iphonesimulator/CGImage Test.app/btn_ON.png
 x../Monster-Gaurd-Design/png/btn_ON.png
-lSLF07#2@43"Copy ../Monster-Gaurd-Design/png/btn_ON.png299207178#299207178#0(0"0(0#0#71"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/btn_ON.png4300911832#471"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/btn_ON.png "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app"0#
+lSLF07#2@43"Copy ../Monster-Gaurd-Design/png/btn_ON.png299619746#299619746#0(0"0(0#0#71"/Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/btn_ON.png8608271296#471"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/michael/Desktop/SentryAPP/../Monster-Gaurd-Design/png/btn_ON.png "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app"0#
 
 CCpResource "build/Debug-iphonesimulator/CGImage Test.app/color_back.png" "../Radar Test Images/color_back.png"
 s299000917.767801
@@ -2942,6 +3004,24 @@ xbuild/Debug-iphonesimulator/CGImage Test.app/pinwheel_2.png
 x../Radar Test Images/pinwheel_2.png
 lSLF07#2@40"Copy ../Radar Test Images/pinwheel_2.png299000917#299000917#0(0"0(0#0#71"/Users/michael/Desktop/CGImage Test/../Radar Test Images/pinwheel_2.png4300911832#481"    cd "/Users/michael/Desktop/CGImage Test"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/michael/Desktop/CGImage Test/../Radar Test Images/pinwheel_2.png" "/Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator/CGImage Test.app"0#
 
+CCpResource "build/Debug-iphonesimulator/CGImage Test.app/sentry_on_v1.aif" "../Sentry SFX/BOUNCES/sentry_on_v1.aif"
+s299450877.272625
+e299450877.343184
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CGImage Test.app/sentry_on_v1.aif
+x../Sentry SFX/BOUNCES/sentry_on_v1.aif
+lSLF07#2@43"Copy ../Sentry SFX/BOUNCES/sentry_on_v1.aif299450877#299450877#0(0"0(0#0#71"/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/sentry_on_v1.aif4300911832#473"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/sentry_on_v1.aif" "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app"0#
+
+CCpResource "build/Debug-iphonesimulator/CGImage Test.app/sentry_on_v1.mp3" "../Sentry SFX/BOUNCES/sentry_on_v1.mp3"
+s299443693.455328
+e299443693.523185
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CGImage Test.app/sentry_on_v1.mp3
+x../Sentry SFX/BOUNCES/sentry_on_v1.mp3
+lSLF07#2@43"Copy ../Sentry SFX/BOUNCES/sentry_on_v1.mp3299443693#299443693#0(0"0(0#0#71"/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/sentry_on_v1.mp34300911832#473"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/michael/Desktop/SentryAPP/../Sentry SFX/BOUNCES/sentry_on_v1.mp3" "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app"0#
+
 CGenerateDSYMFile "/Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator/CGImage Test.app.dSYM" "/Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator/CGImage Test.app/CGImage Test"
 s299015878.172391
 e299015878.185485
@@ -2952,13 +3032,13 @@ x/Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator/CGImage Test.ap
 lSLF07#2@128"GenerateDSYMFile "build/Debug-iphonesimulator/CGImage Test.app.dSYM" "build/Debug-iphonesimulator/CGImage Test.app/CGImage Test"299015878#299015878#0(0"0(0#0#93"/Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator/CGImage Test.app/CGImage Test4300911832#395"    cd "/Users/michael/Desktop/CGImage Test"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator/CGImage Test.app/CGImage Test" -o "/Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator/CGImage Test.app.dSYM"0#
 
 CGenerateDSYMFile "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app.dSYM" "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/CGImage Test"
-s299207179.434079
-e299207179.446665
+s299617328.767019
+e299617329.093601
 r1
 xGenerateDSYMFile
 x/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app.dSYM
 x/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/CGImage Test
-lSLF07#2@128"GenerateDSYMFile "build/Debug-iphonesimulator/CGImage Test.app.dSYM" "build/Debug-iphonesimulator/CGImage Test.app/CGImage Test"299207179#299207179#0(0"0(0#0#90"/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/CGImage Test4300911832#384"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/CGImage Test" -o "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app.dSYM"0#
+lSLF07#2@128"GenerateDSYMFile "build/Debug-iphonesimulator/CGImage Test.app.dSYM" "build/Debug-iphonesimulator/CGImage Test.app/CGImage Test"299617328#299617329#0(0"0(0#0#90"/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/CGImage Test8605490624#384"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/CGImage Test" -o "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app.dSYM"0#
 
 CLd "/Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator/CGImage Test.app/CGImage Test" normal i386
 s299015878.104164
@@ -2971,14 +3051,14 @@ xi386
 lSLF07#2@98"Link /Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator/CGImage Test.app/CGImage Test299015878#299015878#0(0"0(0#0#0"4300911832#930"    cd "/Users/michael/Desktop/CGImage Test"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk "-L/Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator" "-F/Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator" -filelist "/Users/michael/Desktop/CGImage Test/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/CGImage Test.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework AVFoundation -o "/Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator/CGImage Test.app/CGImage Test"0#
 
 CLd "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/CGImage Test" normal i386
-s299207179.407956
-e299207179.433986
+s299617328.475916
+e299617328.766908
 r1
 xLd
 x/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/CGImage Test
 xnormal
 xi386
-lSLF07#2@95"Link /Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/CGImage Test299207179#299207179#0(0"0(0#0#0"4300911832#909"    cd /Users/michael/Desktop/SentryAPP    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator -F/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator -filelist "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/CGImage Test.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework AVFoundation -o "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/CGImage Test"0#
+lSLF07#2@95"Link /Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/CGImage Test299617328#299617328#0(0"0(0#0#0"8602461536#945"    cd /Users/michael/Desktop/SentryAPP    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator -F/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator -filelist "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/Objects-normal/i386/CGImage Test.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework AVFoundation -o "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/CGImage Test"0#
 
 CProcessInfoPlistFile "/Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator/CGImage Test.app/Info.plist" CGImage_Test-Info.plist
 s299000917.349505
@@ -2990,13 +3070,13 @@ xCGImage_Test-Info.plist
 lSLF07#2@31"Process CGImage_Test-Info.plist299000917#299000917#0(0"0(0#0#59"/Users/michael/Desktop/CGImage Test/CGImage_Test-Info.plist7236274654156911616#491"    cd "/Users/michael/Desktop/CGImage Test"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CGImage_Test-Info.plist -genpkginfo "/Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator/CGImage Test.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator/CGImage Test.app/Info.plist"0#
 
 CProcessInfoPlistFile "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/Info.plist" CGImage_Test-Info.plist
-s299207178.335875
-e299207178.342169
+s299617326.552724
+e299617326.565863
 r1
 xProcessInfoPlistFile
 x/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/Info.plist
 xCGImage_Test-Info.plist
-lSLF07#2@31"Process CGImage_Test-Info.plist299207178#299207178#0(0"0(0#0#56"/Users/michael/Desktop/SentryAPP/CGImage_Test-Info.plist4300911832#480"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CGImage_Test-Info.plist -genpkginfo "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/Info.plist"0#
+lSLF07#2@31"Process CGImage_Test-Info.plist299617326#299617326#0(0"0(0#0#56"/Users/michael/Desktop/SentryAPP/CGImage_Test-Info.plist8027789932823540736#480"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CGImage_Test-Info.plist -genpkginfo "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app/Info.plist"0#
 
 CProcessPCH /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-brmngxqcprnwiybrbmfeboqhplmj/CGImage_Test_Prefix.pch.gch CGImage_Test_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 s299207178.751281
@@ -3010,6 +3090,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@34"Precompile CGImage_Test_Prefix.pch299207178#299207179#0(0"0(0#0#56"/Users/michael/Desktop/SentryAPP/CGImage_Test_Prefix.pch4300911832#1798"    cd /Users/michael/Desktop/SentryAPP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-generated-files.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-own-target-headers.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-all-target-headers.hmap" -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-project-headers.hmap" -F/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator -I/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/include "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/DerivedSources/i386" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/DerivedSources" -c /Users/michael/Desktop/SentryAPP/CGImage_Test_Prefix.pch -o /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-brmngxqcprnwiybrbmfeboqhplmj/CGImage_Test_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-dljfpxjlrmoskkfjwrbrocqcllhh/CGImage_Test_Prefix.pch.gch CGImage_Test_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s299617327.281782
+e299617328.196204
+r1
+xProcessPCH
+x/var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-dljfpxjlrmoskkfjwrbrocqcllhh/CGImage_Test_Prefix.pch.gch
+xCGImage_Test_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile CGImage_Test_Prefix.pch299617327#299617328#0(0"0(0#0#56"/Users/michael/Desktop/SentryAPP/CGImage_Test_Prefix.pch8603866144#1840"    cd /Users/michael/Desktop/SentryAPP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-generated-files.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-own-target-headers.hmap" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-all-target-headers.hmap" -iquote "/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/CGImage Test-project-headers.hmap" -F/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator -I/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/include "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/DerivedSources/i386" "-I/Users/michael/Desktop/SentryAPP/build/CGImage Test.build/Debug-iphonesimulator/CGImage Test.build/DerivedSources" -c /Users/michael/Desktop/SentryAPP/CGImage_Test_Prefix.pch -o /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-dljfpxjlrmoskkfjwrbrocqcllhh/CGImage_Test_Prefix.pch.gch0#
 
 CProcessPCH /var/folders/QO/QOtKcBYTHt0GW1RvqdSOyk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CGImage_Test_Prefix-goqsfomvrtlgecakfwtxhdjrkgnw/CGImage_Test_Prefix.pch.gch CGImage_Test_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 s299000917.870063
@@ -3033,10 +3126,10 @@ x/Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator/CGImage Test.ap
 lSLF07#2@86"Touch /Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator/CGImage Test.app299015878#299015878#0(0"0(0#0#0"4300911832#281"    cd "/Users/michael/Desktop/CGImage Test"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/michael/Desktop/CGImage Test/build/Debug-iphonesimulator/CGImage Test.app"0#
 
 CTouch "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app"
-s299207179.446741
-e299207179.450667
+s299619746.580108
+e299619746.585171
 r1
 xTouch
 x/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app
-lSLF07#2@83"Touch /Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app299207179#299207179#0(0"0(0#0#0"4300911832#273"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app"0#
+lSLF07#2@83"Touch /Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app299619746#299619746#0(0"0(0#0#0"8608654432#273"    cd /Users/michael/Desktop/SentryAPP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/michael/Desktop/SentryAPP/build/Debug-iphonesimulator/CGImage Test.app"0#
 
